@@ -1,0 +1,729 @@
+﻿Log file open, 04/04/18 08:50:24
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Multiplayer
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(1008160155) SRandInit(1008160155).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 3944462, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.284854
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.839s to configure plugins.
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am DESKTOP-48J56SE (10.111.67.197:0)
+LogInit: Build: ++UE4+Release-4.19-CL-3944462
+LogInit: Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Mar 13 2018 23:12:32
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line:  
+LogInit: Base Directory: D:/Program Files/Epic Games/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.04.04-12.50.26:150][  0]LogInit: Selected Device Profile: [Windows]
+[2018.04.04-12.50.26:150][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.04.04-12.50.26:165][  0]LogInit: Computer: DESKTOP-48J56SE
+[2018.04.04-12.50.26:165][  0]LogInit: User: Alton
+[2018.04.04-12.50.26:165][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.04.04-12.50.26:165][  0]LogInit: High frequency timer resolution =2.531247 MHz
+[2018.04.04-12.50.26:165][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.04.04-12.50.26:165][  0]LogMemory: Platform Memory Stats for Windows
+[2018.04.04-12.50.26:165][  0]LogMemory: Process Physical Memory: 278.52 MB used, 278.52 MB peak
+[2018.04.04-12.50.26:165][  0]LogMemory: Process Virtual Memory: 272.89 MB used, 272.89 MB peak
+[2018.04.04-12.50.26:165][  0]LogMemory: Physical Memory: 8888.01 MB used,  7373.80 MB free, 16261.81 MB total
+[2018.04.04-12.50.26:165][  0]LogMemory: Virtual Memory: 706.71 MB used,  7373.80 MB free, 134217728.00 MB total
+[2018.04.04-12.50.26:196][  0]LogInit: Using OS detected language (en-US).
+[2018.04.04-12.50.26:196][  0]LogInit: Using OS detected locale (en-CA).
+[2018.04.04-12.50.26:198][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.04.04-12.50.26:702][  0]LogStreaming: Display: Took  0.507s to EndInitTextLocalization.
+[2018.04.04-12.50.26:702][  0]LogInit: Setting process to per monitor DPI aware
+[2018.04.04-12.50.26:745][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.04.04-12.50.26:745][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.04.04-12.50.26:997][  0]LogD3D11RHI: D3D11 adapters:
+[2018.04.04-12.50.27:098][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2018.04.04-12.50.27:098][  0]LogD3D11RHI:       8082/0/8130 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.04.04-12.50.27:108][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 530' (Feature Level 11_0)
+[2018.04.04-12.50.27:108][  0]LogD3D11RHI:       128/0/8130 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.04.04-12.50.27:111][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.04.04-12.50.27:111][  0]LogD3D11RHI:       0/0/8130 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.04.04-12.50.27:111][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.04.04-12.50.27:127][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.04.04-12.50.27:127][  0]LogD3D11RHI:     GPU DeviceId: 0x1ba1 (for the marketing name, search the web for "GPU Device Id")
+[2018.04.04-12.50.27:127][  0]LogWindows: EnumDisplayDevices:
+[2018.04.04-12.50.27:127][  0]LogWindows:    0. 'Intel(R) HD Graphics 530' (P:1 D:1)
+[2018.04.04-12.50.27:127][  0]LogWindows:    1. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2018.04.04-12.50.27:128][  0]LogWindows:    2. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2018.04.04-12.50.27:128][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2018.04.04-12.50.27:128][  0]LogWindows:    4. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2018.04.04-12.50.27:128][  0]LogWindows:    5. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2018.04.04-12.50.27:129][  0]LogWindows:    6. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2018.04.04-12.50.27:129][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.04.04-12.50.27:129][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2018.04.04-12.50.27:129][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.04.04-12.50.27:129][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.04.04-12.50.27:129][  0]LogRHI: Texture pool is 5657 MB (70% of 8082 MB)
+[2018.04.04-12.50.27:181][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.04.04-12.50.27:181][  0]LogD3D11RHI: Async texture creation enabled
+[2018.04.04-12.50.27:219][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.04.04-12.50.27:220][  0]LogShaderCompilers: Guid format shader working directory is -22 characters bigger than the processId version (../../../../../../Users/Alton/Documents/Unreal Projects/Multiplayer/Intermediate/Shaders/WorkingDirectory/10720/).
+[2018.04.04-12.50.27:220][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Alton/AppData/Local/Temp/UnrealShaderWorkingDir/CA6D603B4946870D4DF1D69075475441/'.
+[2018.04.04-12.50.27:642][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.04.04-12.50.27:656][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.04.04-12.50.27:670][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.04.04-12.50.27:684][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.04.04-12.50.27:699][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.04.04-12.50.27:713][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.04.04-12.50.27:727][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.04.04-12.50.27:742][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.04.04-12.50.27:748][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.04.04-12.50.27:765][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.04.04-12.50.27:778][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.04.04-12.50.27:792][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.04.04-12.50.27:805][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2018.04.04-12.50.27:818][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.04.04-12.50.27:831][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.04.04-12.50.27:859][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.04.04-12.50.27:859][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.04.04-12.50.27:873][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.04.04-12.50.27:875][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.04.04-12.50.27:919][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.04.04-12.50.27:932][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.04.04-12.50.27:945][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.04.04-12.50.27:959][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.04.04-12.50.27:977][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.04.04-12.50.27:991][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.04.04-12.50.27:991][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.04.04-12.50.28:096][  0]LogXGEController: Cleaning working directory: C:/Users/Alton/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.04.04-12.50.28:096][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.04.04-12.50.28:096][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.04.04-12.50.28:096][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.04.04-12.50.28:872][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.04.04-12.50.28:971][  0]LogDerivedDataCache: Loaded boot cache 0.10s 87MB C:/Users/Alton/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.04.04-12.50.28:972][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Alton/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.04.04-12.50.28:972][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Alton/Documents/Unreal Projects/Multiplayer/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.04.04-12.50.28:972][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.04.04-12.50.28:972][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Alton/Documents/Unreal Projects/Multiplayer/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.04.04-12.50.28:972][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.04.04-12.50.28:989][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.04.04-12.50.29:002][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Alton/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.04.04-12.50.29:015][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.04.04-12.50.29:015][  0]LogSlate: Using Freetype 2.6.0
+[2018.04.04-12.50.29:016][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.04.04-12.50.29:016][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.04.04-12.50.29:148][  0]LogAssetRegistry: FAssetRegistry took 0.0265 seconds to start up
+[2018.04.04-12.50.29:482][  0]LogInit: Selected Device Profile: [Windows]
+[2018.04.04-12.50.29:648][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.04.04-12.50.29:651][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.04.04-12.50.29:651][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.04.04-12.50.29:651][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.04.04-12.50.29:651][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.04.04-12.50.29:651][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.04.04-12.50.29:684][  0]LogNetVersion: Multiplayer , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 567265365)
+[2018.04.04-12.50.30:254][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 2 prioritized culture(s) in 0.084667 seconds
+[2018.04.04-12.50.30:261][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2018.04.04-12.50.30:261][  0]LogUObjectAllocator: 7314312 out of 0 bytes used by permanent object pool.
+[2018.04.04-12.50.30:261][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.04.04-12.50.32:253][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.04.04-12.50.32:280][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.04.04-12.50.32:616][  0]SourceControl: Source control is disabled
+[2018.04.04-12.50.32:616][  0]SourceControl: Source control is disabled
+[2018.04.04-12.50.32:633][  0]SourceControl: Source control is disabled
+[2018.04.04-12.50.32:651][  0]SourceControl: Source control is disabled
+[2018.04.04-12.50.33:113][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.04.04-12.50.33:250][  0]LogOcInput: OculusInput pre-init called
+[2018.04.04-12.50.33:362][  0]LogEngine: Initializing Engine...
+[2018.04.04-12.50.33:364][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.04.04-12.50.33:365][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.04.04-12.50.33:365][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.04.04-12.50.33:628][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.04.04-12.50.33:723][  0]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.04-12.50.34:179][  0]LogInit: FAudioDevice initialized.
+[2018.04.04-12.50.34:281][  0]LogDerivedDataCache: Saved boot cache 0.10s 74MB C:/Users/Alton/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.04.04-12.50.34:299][  0]LogInit: Texture streaming: Enabled
+[2018.04.04-12.50.34:314][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.04.04-12.50.34:333][  0]LogInit: Transaction tracking system initialized
+[2018.04.04-12.50.34:355][  0]BlueprintLog: New page: Editor Load
+[2018.04.04-12.50.34:428][  0]LocalizationService: Localization service is disabled
+[2018.04.04-12.50.34:495][  0]LogLinker: Warning: Can't find file '/Game/CharacterSystem/CharacterSystem_Tutorial'
+[2018.04.04-12.50.34:495][  0]LogLinker: Warning: Can't find file '/Game/CharacterSystem/CharacterSystem_Tutorial'
+[2018.04.04-12.50.34:495][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/CharacterSystem/CharacterSystem_Tutorial.CharacterSystem_Tutorial_C'
+[2018.04.04-12.50.34:516][  0]LogConsoleResponse: Display: 
+[2018.04.04-12.50.34:689][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.04.04-12.50.34:689][  0]LogCook: Display: Mobile HDR setting 1
+[2018.04.04-12.50.34:689][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.04.04-12.50.34:689][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.04.04-12.50.34:689][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.04.04-12.50.35:025][  0]LogFileCache: Scanning file cache for directory 'D:/Users/Alton/Documents/Unreal Projects/Multiplayer/Content/' took 0.01s
+[2018.04.04-12.50.35:025][  0]SourceControl: Source control is disabled
+[2018.04.04-12.50.35:025][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Alton/Documents/Unreal Projects/Multiplayer/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.04.04-12.50.35:026][  0]LightingResults: New page: Lighting Build
+[2018.04.04-12.50.35:028][  0]MapCheck: New page: Map Check
+[2018.04.04-12.50.35:028][  0]LightingResults: New page: Lighting Build
+[2018.04.04-12.50.35:244][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.04.04-12.50.35:250][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.04.04-12.50.35:268][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.04.04-12.50.35:312][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 44.239ms to complete.
+[2018.04.04-12.50.35:312][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.287
+[2018.04.04-12.50.35:387][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.04.04-12.50.35:474][  0]LogCollectionManager: Loaded 0 collections in 0.001274 seconds
+[2018.04.04-12.50.35:515][  0]LogFileCache: Scanning file cache for directory 'D:/Users/Alton/Documents/Unreal Projects/Multiplayer/Saved/Collections/' took 0.01s
+[2018.04.04-12.50.35:515][  0]LogFileCache: Scanning file cache for directory 'D:/Users/Alton/Documents/Unreal Projects/Multiplayer/Content/Developers/Alton/Collections/' took 0.01s
+[2018.04.04-12.50.35:516][  0]LogFileCache: Scanning file cache for directory 'D:/Users/Alton/Documents/Unreal Projects/Multiplayer/Content/Collections/' took 0.01s
+[2018.04.04-12.50.35:516][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.04.04-12.50.35:525][  0]LogContentBrowser: Native class hierarchy populated in 0.0098 seconds. Added 2452 classes and 558 folders.
+[2018.04.04-12.50.35:531][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.04.04-12.50.35:575][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.04.04-12.50.35:580][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.04.04-12.50.37:251][  0]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.04.04-12.50.37:275][  0]LogSlate: Took 0.000284 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.04.04-12.50.37:280][  0]LogSlate: Took 0.000221 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.04.04-12.50.37:290][  0]LogSlate: Took 0.000237 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.04.04-12.50.37:468][  0]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.Multiplayer
+[2018.04.04-12.50.37:468][  0]LogTemp: CWD: D:\Program Files\Epic Games\UE_4.19\Engine\Binaries\DotNET\IOS
+[2018.04.04-12.50.37:468][  0]LogTemp: Initial Dir: D:\Program Files\Epic Games\UE_4.19
+[2018.04.04-12.50.37:468][  0]LogTemp: Env CWD: D:\Program Files\Epic Games\UE_4.19\Engine\Binaries\DotNET\IOS
+[2018.04.04-12.50.37:468][  0]LogTemp: BranchPath = DESKTOP-48J56SE/D/Program Files/Epic Games/UE_4.19/Engine/Binaries --- GameBranchPath = DESKTOP-48J56SE/D/Program Files/Epic Games/UE_4.19/Engine/Binaries
+[2018.04.04-12.50.37:468][  0]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\Alton\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.04.04-12.50.37:468][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2018.04.04-12.50.37:637][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.04.04-12.50.37:638][  0]LogLoad: (Engine Initialization) Total time: 13.85 seconds
+[2018.04.04-12.50.37:638][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.04.04-12.50.37:680][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.04.04-12.50.37:711][  0]LogSlate: Took 0.000145 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.04.04-12.50.37:742][  1]LogAssetRegistry: Asset discovery search completed in 8.6160 seconds
+[2018.04.04-12.50.37:744][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.04.04-12.50.37:744][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000138 seconds (updated 0 objects)
+[2018.04.04-12.50.38:720][ 18]LogSlate: Took 0.000155 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.04.04-12.50.52:462][294]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.04-12.50.52:595][296]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.04-12.50.52:627][296]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.04-12.50.52:627][296]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.04.04-12.50.52:627][296]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2018.04.04-12.50.52:643][296]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2018.04.04-12.50.52:644][296]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2018.04.04-12.50.52:644][296]PIE: New page: PIE session: ThirdPersonExampleMap (Apr 4, 2018, 4:50:52 AM)
+[2018.04.04-12.50.52:653][296]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_1_ThirdPersonExampleMap
+[2018.04.04-12.50.52:656][296]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002535s)
+[2018.04.04-12.50.52:656][296]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.04.04-12.50.52:657][296]LogPlayLevel: PIE: World Init took: (0.000835s)
+[2018.04.04-12.50.52:657][296]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_1_ThirdPersonExampleMap.ThirdPersonExampleMap (0.003532s)
+[2018.04.04-12.50.52:669][296]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.04-12.50.52:716][296]LogInit: FAudioDevice initialized.
+[2018.04.04-12.50.52:976][296]LogSkeletalMesh: Skeletal Mesh found in DDC [13.358238ms] /Game/Mannequin/Character/Mesh/SK_Mannequin.SK_Mannequin
+[2018.04.04-12.50.53:040][296]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.04.04-12.50.53:043][296]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_1_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2018.04.04-08.50.53
+[2018.04.04-12.50.53:043][296]LogWorld: Bringing up level for play took: 0.000735
+[2018.04.04-12.50.53:061][296]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 11 classes and 0 folders.
+[2018.04.04-12.50.53:065][296]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.04.04-12.50.53:065][296]LogTemp: Display: ParseSettings for IpNetDriver_0
+[2018.04.04-12.50.53:065][296]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.04.04-12.50.53:065][296]LogInit: WinSock: Socket queue 131072 / 131072
+[2018.04.04-12.50.53:066][296]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.04.04-12.50.53:066][296]LogNet: GameNetDriver IpNetDriver_0 IpNetDriver listening on port 17777
+[2018.04.04-12.50.53:070][296]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_1_ThirdPersonExampleMap 0.063
+[2018.04.04-12.50.53:073][296]PIE: New page: PIE session: ThirdPersonExampleMap (Apr 4, 2018, 4:50:53 AM)
+[2018.04.04-12.50.53:085][296]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.04-12.50.53:129][296]LogNet: Browse: 127.0.0.1:17777//Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2018.04.04-12.50.53:129][296]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.04.04-12.50.53:129][296]LogTemp: Display: ParseSettings for IpNetDriver_1
+[2018.04.04-12.50.53:129][296]LogTemp: Display: ParseSettings for PendingNetDriver
+[2018.04.04-12.50.53:129][296]LogInit: WinSock: Socket queue 32768 / 32768
+[2018.04.04-12.50.53:129][296]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.04.04-12.50.53:130][296]LogNet: Game client on port 17777, rate 10000
+[2018.04.04-12.50.53:133][296]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap 0.125
+[2018.04.04-12.50.53:148][296]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:53878
+[2018.04.04-12.50.53:148][296]LogHandshake: SendConnectChallenge. Timestamp: 0.067131, Cookie: 133013201160094149035197052244058204191026129208017069013071
+[2018.04.04-12.50.53:155][296]LogHandshake: SendChallengeResponse. Timestamp: 0.067131, Cookie: 133013201160094149035197052244058204191026129208017069013071
+[2018.04.04-12.50.53:274][297]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:53878
+[2018.04.04-12.50.53:274][297]LogHandshake: SendChallengeAck. InCookie: 133013201160094149035197052244058204191026129208017069013071
+[2018.04.04-12.50.53:274][297]LogNet: Server accepting post-challenge connection from: 127.0.0.1:53878
+[2018.04.04-12.50.53:274][297]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.04.04-12.50.53:274][297]LogNet: NotifyAcceptedConnection: Name: ThirdPersonExampleMap, TimeStamp: 04/04/18 08:50:53, [UNetConnection] RemoteAddr: 127.0.0.1:53878, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2018.04.04-12.50.53:274][297]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:53878, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2018.04.04-12.50.53:275][297]LogNetVersion: Multiplayer 1.0.0.0, NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 153431823)
+[2018.04.04-12.50.53:275][297]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_0, Driver: PendingNetDriver IpNetDriver_1, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2018.04.04-12.50.53:295][298]LogNet: NotifyAcceptingChannel Control 0 server World /Game/ThirdPersonBP/Maps/UEDPIE_1_ThirdPersonExampleMap.ThirdPersonExampleMap: Accepted
+[2018.04.04-12.50.53:295][298]LogNet: Remote platform little endian=1
+[2018.04.04-12.50.53:295][298]LogNet: This platform little endian=1
+[2018.04.04-12.50.53:349][299]LogNet: Login request: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap?Name=DESKTOP-48J56SE-50047F13451F0FC86876488B3E0AE858 userId: DESKTOP-48J56SE-50047F13451F0FC86876488B3E0AE858
+[2018.04.04-12.50.53:350][299]LogNet: Welcomed by server (Level: /Game/ThirdPersonBP/Maps/UEDPIE_1_ThirdPersonExampleMap, Game: /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C)
+[2018.04.04-12.50.53:431][299]LogLoad: LoadMap: 127.0.0.1:17777//Game/ThirdPersonBP/Maps/UEDPIE_1_ThirdPersonExampleMap?game=/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C
+[2018.04.04-12.50.53:450][299]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.04.04-12.50.53:450][299]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.04.04-12.50.53:453][299]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_2_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2018.04.04-08.50.53
+[2018.04.04-12.50.53:453][299]LogWorld: Bringing up level for play took: 0.000697
+[2018.04.04-12.50.53:453][299]LogLoad: Took 0.022116 seconds to LoadMap(/Game/ThirdPersonBP/Maps/UEDPIE_1_ThirdPersonExampleMap)
+[2018.04.04-12.50.53:471][300]LogNet: Client netspeed is 10000
+[2018.04.04-12.50.53:471][300]LogNet: Join request: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap?Name=DESKTOP-48J56SE-50047F13451F0FC86876488B3E0AE858?SplitscreenCount=1
+[2018.04.04-12.50.53:472][300]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2018.04.04-12.50.53:475][300]LogNet: Join succeeded: DESKTOP-48J56SE-5004
+[2018.04.04-12.50.53:519][301]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2018.04.04-12.50.53:520][301]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2018.04.04-12.51.00:098][380]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.04-12.51.00:182][381]LogNet: Browse: /Game/ThirdPersonBP/Maps/level2
+[2018.04.04-12.51.00:264][381]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/level2
+[2018.04.04-12.51.00:264][381]LogNet: World NetDriver shutdown IpNetDriver_0 [GameNetDriver]
+[2018.04.04-12.51.00:264][381]LogNet: DestroyNamedNetDriver IpNetDriver_0 [GameNetDriver]
+[2018.04.04-12.51.00:265][381]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:53878, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: ThirdpersonController_C_1, Owner: ThirdpersonController_C_1, UniqueId: DESKTOP-48J56SE-50047F13451F0FC86876488B3E0AE858
+[2018.04.04-12.51.00:265][381]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:53878, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: ThirdpersonController_C_1, Owner: ThirdpersonController_C_1, UniqueId: DESKTOP-48J56SE-50047F13451F0FC86876488B3E0AE858, Channels: 10, Time: 2018.04.04-12.51.00
+[2018.04.04-12.51.00:265][381]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:53878, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: ThirdpersonController_C_1, Owner: ThirdpersonController_C_1, UniqueId: DESKTOP-48J56SE-50047F13451F0FC86876488B3E0AE858
+[2018.04.04-12.51.00:265][381]LogExit: GameNetDriver IpNetDriver_0 shut down
+[2018.04.04-12.51.00:737][381]LogAIModule: Creating AISystem for world level2
+[2018.04.04-12.51.00:737][381]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.04.04-12.51.00:742][381]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_1_level2.level2 up for play (max tick rate 60) at 2018.04.04-08.51.00
+[2018.04.04-12.51.00:742][381]LogWorld: Bringing up level for play took: 0.003511
+[2018.04.04-12.51.00:743][381]LogLoad: Took 0.478747 seconds to LoadMap(/Game/ThirdPersonBP/Maps/level2)
+[2018.04.04-12.51.00:744][381]LogNet: Warning: Network Failure: GameNetDriver[FailureReceived]: Host closed the connection.
+[2018.04.04-12.51.00:744][381]LogNet: Warning: Network Failure: GameNetDriver[FailureReceived]: Host closed the connection.
+[2018.04.04-12.51.00:744][381]LogNet: NetworkFailure: FailureReceived, Error: 'Host closed the connection.'
+[2018.04.04-12.51.00:744][381]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_1, IsServer: NO, PC: ThirdpersonController_C_0, Owner: ThirdpersonController_C_0, UniqueId: DESKTOP-48J56SE-50047F13451F0FC86876488B3E0AE858, Channels: 10, Time: 2018.04.04-12.51.00
+[2018.04.04-12.51.00:744][381]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_1, IsServer: NO, PC: ThirdpersonController_C_0, Owner: ThirdpersonController_C_0, UniqueId: DESKTOP-48J56SE-50047F13451F0FC86876488B3E0AE858
+[2018.04.04-12.51.00:744][381]LogNet: Warning: Network Failure: GameNetDriver[ConnectionLost]: Your connection to the host has been lost.
+[2018.04.04-12.51.00:744][381]LogNet: Warning: Network Failure: GameNetDriver[ConnectionLost]: Your connection to the host has been lost.
+[2018.04.04-12.51.00:744][381]LogNet: NetworkFailure: ConnectionLost, Error: 'Your connection to the host has been lost.'
+[2018.04.04-12.51.00:772][382]LogNet: Browse: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap?closed
+[2018.04.04-12.51.00:772][382]LogNet: Failed; returning to Entry
+[2018.04.04-12.51.00:815][382]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap?closed
+[2018.04.04-12.51.00:815][382]LogNet: World NetDriver shutdown IpNetDriver_1 [GameNetDriver]
+[2018.04.04-12.51.00:815][382]LogNet: DestroyNamedNetDriver IpNetDriver_1 [GameNetDriver]
+[2018.04.04-12.51.00:815][382]LogExit: GameNetDriver IpNetDriver_1 shut down
+[2018.04.04-12.51.00:832][382]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_2_ThirdPersonExampleMap
+[2018.04.04-12.51.00:834][382]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001971s)
+[2018.04.04-12.51.00:834][382]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.04.04-12.51.00:834][382]LogPlayLevel: PIE: World Init took: (0.000556s)
+[2018.04.04-12.51.00:834][382]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_2_ThirdPersonExampleMap.ThirdPersonExampleMap (0.002865s)
+[2018.04.04-12.51.00:835][382]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.04.04-12.51.00:836][382]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_2_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2018.04.04-08.51.00
+[2018.04.04-12.51.00:836][382]LogWorld: Bringing up level for play took: 0.000477
+[2018.04.04-12.51.00:839][382]LogLoad: Took 0.023623 seconds to LoadMap(/Game/ThirdPersonBP/Maps/UEDPIE_2_ThirdPersonExampleMap)
+[2018.04.04-12.51.02:933][408]LogSlate: Window 'Multiplayer Game Preview Client 1 (64-bit/PCD3D_SM5)' being destroyed
+[2018.04.04-12.51.03:017][408]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.04.04-12.51.03:018][408]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2018.04.04-12.51.03:047][408]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2018.04.04-12.51.03:047][408]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2018.04.04-12.51.03:047][408]LogSlate: Window 'Multiplayer Game Preview Server (64-bit/PCD3D_SM5)' being destroyed
+[2018.04.04-12.51.03:082][408]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.04.04-12.51.03:082][408]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2018.04.04-12.51.03:083][408]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2018.04.04-12.51.03:083][408]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2018.04.04-12.51.03:083][408]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.04.04-12.51.03:117][409]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2018.04.04-12.51.03:117][409]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.04.04-12.51.03:117][409]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2018.04.04-12.51.03:117][409]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.04.04-13.17.01:323][373]Cmd: MAP LOAD FILE="../../../../../../Users/Alton/Documents/Unreal Projects/Multiplayer/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.04.04-13.17.01:323][373]LightingResults: New page: Lighting Build
+[2018.04.04-13.17.01:324][373]LoadErrors: New page: Loading map: ThirdPersonExampleMap.umap
+[2018.04.04-13.17.01:325][373]MapCheck: New page: Map Check
+[2018.04.04-13.17.01:325][373]LightingResults: New page: Lighting Build
+[2018.04.04-13.17.01:392][373]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.04.04-13.17.01:462][373]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.04.04-13.17.01:544][373]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.04.04-13.17.01:597][373]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 53.421ms to complete.
+[2018.04.04-13.17.01:601][373]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.278
+[2018.04.04-13.17.04:269][419]LogAIModule: Creating AISystem for world level2
+[2018.04.04-13.17.04:303][419]Cmd: MAP LOAD FILE="../../../../../../Users/Alton/Documents/Unreal Projects/Multiplayer/Content/ThirdPersonBP/Maps/level2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.04.04-13.17.04:303][419]LightingResults: New page: Lighting Build
+[2018.04.04-13.17.04:304][419]LoadErrors: New page: Loading map: level2.umap
+[2018.04.04-13.17.04:305][419]MapCheck: New page: Map Check
+[2018.04.04-13.17.04:305][419]LightingResults: New page: Lighting Build
+[2018.04.04-13.17.04:409][419]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.04.04-13.17.04:483][419]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.04.04-13.17.04:535][419]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 52.371ms to complete.
+[2018.04.04-13.17.04:537][419]LogFileHelpers: Loading map 'level2' took 0.235
+[2018.04.04-13.17.07:371][470]LogAIModule: Creating AISystem for world level1
+[2018.04.04-13.17.07:469][470]Cmd: MAP LOAD FILE="../../../../../../Users/Alton/Documents/Unreal Projects/Multiplayer/Content/ThirdPersonBP/Maps/level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.04.04-13.17.07:469][470]LightingResults: New page: Lighting Build
+[2018.04.04-13.17.07:470][470]LoadErrors: New page: Loading map: level1.umap
+[2018.04.04-13.17.07:471][470]MapCheck: New page: Map Check
+[2018.04.04-13.17.07:471][470]LightingResults: New page: Lighting Build
+[2018.04.04-13.17.07:617][470]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.04.04-13.17.07:695][470]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.04.04-13.17.07:750][470]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 54.624ms to complete.
+[2018.04.04-13.17.07:750][470]LogFileHelpers: Loading map 'level1' took 0.282
+[2018.04.04-13.17.40:259][672]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 116 classes and 0 folders.
+[2018.04.04-13.17.41:003][672]LogSlate: Took 0.000179 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.04.04-13.17.41:060][673]LogSlate: Took 0.000296 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.04.04-13.17.44:559][734]LogSlate: Window 'ThirdpersonGameInstance' being destroyed
+[2018.04.04-13.27.07:706][541]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/level1' took 0.029
+[2018.04.04-13.27.07:709][541]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BluePrints/ThirdpersonGameInstance] ([1] browsable assets)...
+[2018.04.04-13.27.07:709][541]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/ThirdpersonGameInstance]
+[2018.04.04-13.27.07:736][541]LogSavePackage: Save=10.69ms
+[2018.04.04-13.27.07:736][541]LogSavePackage: Moving '../../../../../../Users/Alton/Documents/Unreal Projects/Multiplayer/Saved/ThirdpersonGameInstance_Auto1E75C45764C1C1B77929A09967337221E.tmp' to '../../../../../../Users/Alton/Documents/Unreal Projects/Multiplayer/Saved/Autosaves/Game/BluePrints/ThirdpersonGameInstance_Auto1.uasset'
+[2018.04.04-13.27.07:737][541]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Alton/Documents/Unreal Projects/Multiplayer/Saved/Autosaves/Game/BluePrints/ThirdpersonGameInstance_Auto1.uasset
+[2018.04.04-13.27.07:737][541]LogFileHelpers: Auto-saving content packages took 0.029
+[2018.04.04-16.34.33:607][761]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/level1' took 0.037
+[2018.04.04-16.34.33:609][761]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BluePrints/ThirdpersonController] ([1] browsable assets)...
+[2018.04.04-16.34.33:609][761]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/ThirdpersonController]
+[2018.04.04-16.34.33:660][761]LogSavePackage: Save=38.91ms
+[2018.04.04-16.34.33:660][761]LogSavePackage: Moving '../../../../../../Users/Alton/Documents/Unreal Projects/Multiplayer/Saved/ThirdpersonController_Auto205F8DB944B4BDB6C99B22C953ECA1867.tmp' to '../../../../../../Users/Alton/Documents/Unreal Projects/Multiplayer/Saved/Autosaves/Game/BluePrints/ThirdpersonController_Auto2.uasset'
+[2018.04.04-16.34.33:661][761]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Alton/Documents/Unreal Projects/Multiplayer/Saved/Autosaves/Game/BluePrints/ThirdpersonController_Auto2.uasset
+[2018.04.04-16.34.33:661][761]LogFileHelpers: Auto-saving content packages took 0.052
+[2018.04.04-16.38.08:484][ 84]LogSlate: Took 0.004999 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.04.04-16.38.48:904][633]LogSlate: Took 0.005616 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2018.04.04-16.39.12:304][ 27]BlueprintLog: New page: Compile HUD_TravelMenu
+[2018.04.04-16.39.12:322][ 27]LogBlueprint: Warning: [Compiler HUD_TravelMenu] Could not find the function 'Player_Server_JoinLobby' called from  Player Server Join Lobby
+[2018.04.04-16.39.12:364][ 27]LogBlueprint: Warning: [Compiler HUD_TravelMenu] [3728.58] Compile of HUD_TravelMenu successful, but with 1 Warning(s) [in 59 ms] (/Game/Interface/HUD_TravelMenu.HUD_TravelMenu)
+[2018.04.04-16.39.18:995][422]BlueprintLog: New page: Compile ThirdpersonController
+[2018.04.04-16.39.22:092][590]BlueprintLog: New page: Compile HUD_TravelMenu
+[2018.04.04-16.40.01:995][377]BlueprintLog: New page: Compile ThirdpersonGameInstance
+[2018.04.04-16.40.02:025][377]LogBlueprint: Error: [Compiler ThirdpersonController] In use pin  New Param  no longer exists on node  Instance Join Lobby . Please refresh node or break links to remove pin.
+[2018.04.04-16.40.02:307][377]LogBlueprint: Error: [Compiler ThirdpersonGameInstance] The current value of the ' Search Result ' pin is invalid: 'Search Result' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2018.04.04-16.40.02:309][377]LogBlueprint: Warning: [Compiler ThirdpersonController] [3778.52] Compile of ThirdpersonController failed. 1 Fatal Issue(s) 0 Warning(s) [in 311 ms] (/Game/BluePrints/ThirdpersonController.ThirdpersonController)
+[2018.04.04-16.40.02:493][377]LogBlueprint: Warning: [Compiler ThirdpersonGameInstance] [3778.71] Compile of ThirdpersonGameInstance failed. 1 Fatal Issue(s) 0 Warning(s) [in 497 ms] (/Game/BluePrints/ThirdpersonGameInstance.ThirdpersonGameInstance)
+[2018.04.04-16.40.07:577][680]BlueprintLog: New page: Compile ThirdpersonController
+[2018.04.04-16.40.07:601][680]LogBlueprint: Error: [Compiler ThirdpersonController] In use pin  New Param  no longer exists on node  Instance Join Lobby . Please refresh node or break links to remove pin.
+[2018.04.04-16.40.07:793][680]LogBlueprint: Warning: [Compiler ThirdpersonController] [3784.00] Compile of ThirdpersonController failed. 1 Fatal Issue(s) 0 Warning(s) [in 215 ms] (/Game/BluePrints/ThirdpersonController.ThirdpersonController)
+[2018.04.04-16.40.12:541][959]BlueprintLog: New page: Compile ThirdpersonController
+[2018.04.04-16.44.02:072][506]BlueprintLog: New page: Compile ThirdpersonGameInstance
+[2018.04.04-16.44.53:413][ 98]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/level1' took 0.025
+[2018.04.04-16.44.53:416][ 98]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BluePrints/ThirdpersonGameInstance] ([1] browsable assets)...
+[2018.04.04-16.44.53:416][ 98]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/ThirdpersonGameInstance]
+[2018.04.04-16.44.53:449][ 98]LogSavePackage: Save=16.37ms
+[2018.04.04-16.44.53:449][ 98]LogSavePackage: Moving '../../../../../../Users/Alton/Documents/Unreal Projects/Multiplayer/Saved/ThirdpersonGameInstance_Auto30CD506014CA0D63DBC0DC7928DAC450C.tmp' to '../../../../../../Users/Alton/Documents/Unreal Projects/Multiplayer/Saved/Autosaves/Game/BluePrints/ThirdpersonGameInstance_Auto3.uasset'
+[2018.04.04-16.44.53:450][ 98]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Alton/Documents/Unreal Projects/Multiplayer/Saved/Autosaves/Game/BluePrints/ThirdpersonGameInstance_Auto3.uasset
+[2018.04.04-16.44.53:450][ 98]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BluePrints/ThirdpersonController] ([1] browsable assets)...
+[2018.04.04-16.44.53:450][ 98]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/ThirdpersonController]
+[2018.04.04-16.44.53:493][ 98]LogSavePackage: Save=33.03ms
+[2018.04.04-16.44.53:493][ 98]LogSavePackage: Moving '../../../../../../Users/Alton/Documents/Unreal Projects/Multiplayer/Saved/ThirdpersonController_Auto323B4C42A47948A2F17C2A9A9C45450B7.tmp' to '../../../../../../Users/Alton/Documents/Unreal Projects/Multiplayer/Saved/Autosaves/Game/BluePrints/ThirdpersonController_Auto3.uasset'
+[2018.04.04-16.44.53:495][ 98]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Alton/Documents/Unreal Projects/Multiplayer/Saved/Autosaves/Game/BluePrints/ThirdpersonController_Auto3.uasset
+[2018.04.04-16.44.53:495][ 98]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Interface/HUD_TravelMenu] ([1] browsable assets)...
+[2018.04.04-16.44.53:495][ 98]OBJ SavePackage: Finished generating thumbnails for package [/Game/Interface/HUD_TravelMenu]
+[2018.04.04-16.44.53:527][ 98]LogSavePackage: Save=22.39ms
+[2018.04.04-16.44.53:527][ 98]LogSavePackage: Moving '../../../../../../Users/Alton/Documents/Unreal Projects/Multiplayer/Saved/HUD_TravelMenu_Auto3FD95300E4B2CA6092B18529D69F1A12E.tmp' to '../../../../../../Users/Alton/Documents/Unreal Projects/Multiplayer/Saved/Autosaves/Game/Interface/HUD_TravelMenu_Auto3.uasset'
+[2018.04.04-16.44.53:527][ 98]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Alton/Documents/Unreal Projects/Multiplayer/Saved/Autosaves/Game/Interface/HUD_TravelMenu_Auto3.uasset
+[2018.04.04-16.44.53:528][ 98]LogFileHelpers: Auto-saving content packages took 0.113
+[2018.04.04-16.45.51:626][345]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.04-16.45.51:667][345]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/level1.level1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/level1.level1:PersistentLevel.level1' with GeneratedClass '/Game/ThirdPersonBP/Maps/level1.level1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/level1.level1:PersistentLevel.level1'
+[2018.04.04-16.45.51:667][345]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.04-16.45.51:668][345]PIE: New page: PIE session: level1 (Apr 4, 2018, 8:45:51 AM)
+[2018.04.04-16.45.51:672][345]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_1_level1
+[2018.04.04-16.45.51:706][345]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034823s)
+[2018.04.04-16.45.51:708][345]LogAIModule: Creating AISystem for world level1
+[2018.04.04-16.45.51:709][345]LogPlayLevel: PIE: World Init took: (0.002194s)
+[2018.04.04-16.45.51:709][345]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/level1.level1 to /Game/ThirdPersonBP/Maps/UEDPIE_1_level1.level1 (0.037307s)
+[2018.04.04-16.45.51:741][345]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.04-16.45.51:782][345]LogInit: FAudioDevice initialized.
+[2018.04.04-16.45.51:832][345]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.04.04-16.45.51:837][345]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_1_level1.level1 up for play (max tick rate 60) at 2018.04.04-12.45.51
+[2018.04.04-16.45.51:838][345]LogWorld: Bringing up level for play took: 0.003916
+[2018.04.04-16.45.51:851][345]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.04.04-16.45.51:851][345]LogTemp: Display: ParseSettings for IpNetDriver_2
+[2018.04.04-16.45.51:851][345]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.04.04-16.45.51:851][345]LogInit: WinSock: Socket queue 131072 / 131072
+[2018.04.04-16.45.51:851][345]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.04.04-16.45.51:852][345]LogNet: GameNetDriver IpNetDriver_2 IpNetDriver listening on port 17777
+[2018.04.04-16.45.51:854][345]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_1_level1 0.847
+[2018.04.04-16.45.51:857][345]PIE: New page: PIE session: level1 (Apr 4, 2018, 8:45:51 AM)
+[2018.04.04-16.45.51:867][345]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.04-16.45.51:909][345]LogNet: Browse: 127.0.0.1:17777//Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2018.04.04-16.45.51:909][345]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.04.04-16.45.51:909][345]LogTemp: Display: ParseSettings for IpNetDriver_3
+[2018.04.04-16.45.51:909][345]LogTemp: Display: ParseSettings for PendingNetDriver
+[2018.04.04-16.45.51:909][345]LogInit: WinSock: Socket queue 32768 / 32768
+[2018.04.04-16.45.51:909][345]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.04.04-16.45.51:909][345]LogNet: Game client on port 17777, rate 10000
+[2018.04.04-16.45.51:911][345]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap 0.904
+[2018.04.04-16.45.51:924][345]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/level1.level1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/level1.level1:PersistentLevel.level1' with GeneratedClass '/Game/ThirdPersonBP/Maps/level1.level1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/level1.level1:PersistentLevel.level1'
+[2018.04.04-16.45.51:924][345]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:62623
+[2018.04.04-16.45.51:924][345]LogHandshake: SendConnectChallenge. Timestamp: 0.016683, Cookie: 083144195248006223180135192001054043062171059223136190058205
+[2018.04.04-16.45.51:926][345]LogHandshake: SendChallengeResponse. Timestamp: 0.016683, Cookie: 083144195248006223180135192001054043062171059223136190058205
+[2018.04.04-16.45.52:069][346]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:62623
+[2018.04.04-16.45.52:069][346]LogHandshake: SendChallengeAck. InCookie: 083144195248006223180135192001054043062171059223136190058205
+[2018.04.04-16.45.52:069][346]LogNet: Server accepting post-challenge connection from: 127.0.0.1:62623
+[2018.04.04-16.45.52:070][346]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.04.04-16.45.52:070][346]LogNet: NotifyAcceptedConnection: Name: level1, TimeStamp: 04/04/18 12:45:52, [UNetConnection] RemoteAddr: 127.0.0.1:62623, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_2, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2018.04.04-16.45.52:070][346]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:62623, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_2, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2018.04.04-16.45.52:071][346]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_2, Driver: PendingNetDriver IpNetDriver_3, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2018.04.04-16.45.52:085][347]LogNet: NotifyAcceptingChannel Control 0 server World /Game/ThirdPersonBP/Maps/UEDPIE_1_level1.level1: Accepted
+[2018.04.04-16.45.52:085][347]LogNet: Remote platform little endian=1
+[2018.04.04-16.45.52:085][347]LogNet: This platform little endian=1
+[2018.04.04-16.45.52:105][348]LogNet: Login request: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap?Name=DESKTOP-48J56SE-8E9D7E324647435B6B2410A05168FB92 userId: DESKTOP-48J56SE-8E9D7E324647435B6B2410A05168FB92
+[2018.04.04-16.45.52:106][348]LogNet: Welcomed by server (Level: /Game/ThirdPersonBP/Maps/UEDPIE_1_level1, Game: /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C)
+[2018.04.04-16.45.52:119][348]LogLoad: LoadMap: 127.0.0.1:17777//Game/ThirdPersonBP/Maps/UEDPIE_1_level1?game=/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C
+[2018.04.04-16.45.52:166][348]LogAIModule: Creating AISystem for world level1
+[2018.04.04-16.45.52:167][348]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.04.04-16.45.52:171][348]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_2_level1.level1 up for play (max tick rate 60) at 2018.04.04-12.45.52
+[2018.04.04-16.45.52:171][348]LogWorld: Bringing up level for play took: 0.002807
+[2018.04.04-16.45.52:171][348]LogLoad: Took 0.052718 seconds to LoadMap(/Game/ThirdPersonBP/Maps/UEDPIE_1_level1)
+[2018.04.04-16.45.52:185][349]LogNet: Client netspeed is 10000
+[2018.04.04-16.45.52:185][349]LogNet: Join request: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap?Name=DESKTOP-48J56SE-8E9D7E324647435B6B2410A05168FB92?SplitscreenCount=1
+[2018.04.04-16.45.52:185][349]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2018.04.04-16.45.52:187][349]LogNet: Join succeeded: DESKTOP-48J56SE-8E9D
+[2018.04.04-16.45.52:243][351]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2018.04.04-16.45.52:243][351]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2018.04.04-16.45.53:209][408]LogScript: Warning: Accessed None trying to read property Player_TravelMenu
+	ThirdpersonController_C /Game/ThirdPersonBP/Maps/UEDPIE_1_level1.level1:PersistentLevel.ThirdpersonController_C_0
+	Function /Game/BluePrints/ThirdpersonController.ThirdpersonController_C:ExecuteUbergraph_ThirdpersonController:006E
+[2018.04.04-16.45.53:209][408]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property Player_TravelMenu from function: 'ExecuteUbergraph_ThirdpersonController' from node: Branch in graph: EventGraph in object: ThirdpersonController with description: Accessed None trying to read property Player_TravelMenu
+[2018.04.04-16.45.53:209][408]LogScript: Warning: Accessed None trying to read property Player_TravelMenu
+	ThirdpersonController_C /Game/ThirdPersonBP/Maps/UEDPIE_1_level1.level1:PersistentLevel.ThirdpersonController_C_0
+	Function /Game/BluePrints/ThirdpersonController.ThirdpersonController_C:ExecuteUbergraph_ThirdpersonController:00BF
+[2018.04.04-16.45.53:209][408]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property Player_TravelMenu from function: 'ExecuteUbergraph_ThirdpersonController' from node: Set Visibility in graph: EventGraph in object: ThirdpersonController with description: Accessed None trying to read property Player_TravelMenu
+[2018.04.04-16.45.55:108][522]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.04-16.45.55:227][529]LogNet: Browse: /Game/ThirdPersonBP/Maps/level2?listen
+[2018.04.04-16.45.55:227][529]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/level2?listen
+[2018.04.04-16.45.55:227][529]LogNet: World NetDriver shutdown IpNetDriver_2 [GameNetDriver]
+[2018.04.04-16.45.55:227][529]LogNet: DestroyNamedNetDriver IpNetDriver_2 [GameNetDriver]
+[2018.04.04-16.45.55:227][529]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:62623, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_2, IsServer: YES, PC: ThirdpersonController_C_1, Owner: ThirdpersonController_C_1, UniqueId: DESKTOP-48J56SE-8E9D7E324647435B6B2410A05168FB92
+[2018.04.04-16.45.55:227][529]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:62623, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_2, IsServer: YES, PC: ThirdpersonController_C_1, Owner: ThirdpersonController_C_1, UniqueId: DESKTOP-48J56SE-8E9D7E324647435B6B2410A05168FB92, Channels: 10, Time: 2018.04.04-16.45.55
+[2018.04.04-16.45.55:227][529]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:62623, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_2, IsServer: YES, PC: ThirdpersonController_C_1, Owner: ThirdpersonController_C_1, UniqueId: DESKTOP-48J56SE-8E9D7E324647435B6B2410A05168FB92
+[2018.04.04-16.45.55:228][529]LogExit: GameNetDriver IpNetDriver_2 shut down
+[2018.04.04-16.45.55:402][529]LogAIModule: Creating AISystem for world level2
+[2018.04.04-16.45.55:403][529]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.04.04-16.45.55:403][529]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.04.04-16.45.55:403][529]LogTemp: Display: ParseSettings for IpNetDriver_4
+[2018.04.04-16.45.55:403][529]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.04.04-16.45.55:403][529]LogInit: WinSock: Socket queue 131072 / 131072
+[2018.04.04-16.45.55:403][529]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.04.04-16.45.55:404][529]LogNet: GameNetDriver IpNetDriver_4 IpNetDriver listening on port 7777
+[2018.04.04-16.45.55:407][529]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_1_level2.level2 up for play (max tick rate 60) at 2018.04.04-12.45.55
+[2018.04.04-16.45.55:408][529]LogWorld: Bringing up level for play took: 0.003418
+[2018.04.04-16.45.55:409][529]LogLoad: Took 0.181735 seconds to LoadMap(/Game/ThirdPersonBP/Maps/level2)
+[2018.04.04-16.45.55:410][529]LogNet: Warning: Network Failure: GameNetDriver[FailureReceived]: Host closed the connection.
+[2018.04.04-16.45.55:410][529]LogNet: Warning: Network Failure: GameNetDriver[FailureReceived]: Host closed the connection.
+[2018.04.04-16.45.55:410][529]LogNet: NetworkFailure: FailureReceived, Error: 'Host closed the connection.'
+[2018.04.04-16.45.55:410][529]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_2, Driver: GameNetDriver IpNetDriver_3, IsServer: NO, PC: ThirdpersonController_C_0, Owner: ThirdpersonController_C_0, UniqueId: DESKTOP-48J56SE-8E9D7E324647435B6B2410A05168FB92, Channels: 10, Time: 2018.04.04-16.45.55
+[2018.04.04-16.45.55:410][529]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_2, Driver: GameNetDriver IpNetDriver_3, IsServer: NO, PC: ThirdpersonController_C_0, Owner: ThirdpersonController_C_0, UniqueId: DESKTOP-48J56SE-8E9D7E324647435B6B2410A05168FB92
+[2018.04.04-16.45.55:410][529]LogNet: Warning: Network Failure: GameNetDriver[ConnectionLost]: Your connection to the host has been lost.
+[2018.04.04-16.45.55:410][529]LogNet: Warning: Network Failure: GameNetDriver[ConnectionLost]: Your connection to the host has been lost.
+[2018.04.04-16.45.55:410][529]LogNet: NetworkFailure: ConnectionLost, Error: 'Your connection to the host has been lost.'
+[2018.04.04-16.45.55:422][530]LogNet: Browse: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap?closed
+[2018.04.04-16.45.55:422][530]LogNet: Failed; returning to Entry
+[2018.04.04-16.45.55:479][530]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap?closed
+[2018.04.04-16.45.55:479][530]LogNet: World NetDriver shutdown IpNetDriver_3 [GameNetDriver]
+[2018.04.04-16.45.55:479][530]LogNet: DestroyNamedNetDriver IpNetDriver_3 [GameNetDriver]
+[2018.04.04-16.45.55:479][530]LogExit: GameNetDriver IpNetDriver_3 shut down
+[2018.04.04-16.45.56:238][530]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.607 s
+[2018.04.04-16.45.56:238][530]LogOutputDevice: Error: === Handled ensure: ===
+[2018.04.04-16.45.56:238][530]LogOutputDevice: Error: 
+[2018.04.04-16.45.56:238][530]LogOutputDevice: Error: Ensure condition failed: IsObjectValidForDatabase(AssetObject) [File:D:\Build\++UE4+Release-4.19+Compile\Sync\Engine\Source\Editor\BlueprintGraph\Private\BlueprintActionDatabase.cpp] [Line: 1315]
+[2018.04.04-16.45.56:238][530]LogOutputDevice: Error: 
+[2018.04.04-16.45.56:238][530]LogOutputDevice: Error: Stack: 
+[2018.04.04-16.45.56:238][530]LogOutputDevice: Error: [Callstack] 0x000000007F74BA76 UE4Editor-Core.dll!UnknownFunction []
+[2018.04.04-16.45.56:238][530]LogOutputDevice: Error: [Callstack] 0x000000007F4AAE3A UE4Editor-Core.dll!UnknownFunction []
+[2018.04.04-16.45.56:238][530]LogOutputDevice: Error: [Callstack] 0x000000007F4BECD6 UE4Editor-Core.dll!UnknownFunction []
+[2018.04.04-16.45.56:238][530]LogOutputDevice: Error: [Callstack] 0x000000007882BBE9 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2018.04.04-16.45.56:238][530]LogOutputDevice: Error: [Callstack] 0x00000000787FD28D UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2018.04.04-16.45.56:238][530]LogOutputDevice: Error: [Callstack] 0x000000007DCC6F37 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.04.04-16.45.56:238][530]LogOutputDevice: Error: [Callstack] 0x000000007E00BC10 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.04.04-16.45.56:238][530]LogOutputDevice: Error: [Callstack] 0x000000007E022D3B UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.04.04-16.45.56:238][530]LogOutputDevice: Error: [Callstack] 0x000000007E022154 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.04.04-16.45.56:238][530]LogOutputDevice: Error: [Callstack] 0x000000007C43859A UE4Editor-Engine.dll!UnknownFunction []
+[2018.04.04-16.45.56:238][530]LogOutputDevice: Error: [Callstack] 0x000000007C3EBDF1 UE4Editor-Engine.dll!UnknownFunction []
+[2018.04.04-16.45.56:238][530]LogOutputDevice: Error: [Callstack] 0x000000007C4598C0 UE4Editor-Engine.dll!UnknownFunction []
+[2018.04.04-16.45.56:238][530]LogOutputDevice: Error: [Callstack] 0x0000000079DBCD20 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.04.04-16.45.56:238][530]LogOutputDevice: Error: [Callstack] 0x000000007A659526 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.04.04-16.45.56:238][530]LogOutputDevice: Error: [Callstack] 0x00000000CC205EAC UE4Editor.exe!UnknownFunction []
+[2018.04.04-16.45.56:238][530]LogOutputDevice: Error: [Callstack] 0x00000000CC216BD0 UE4Editor.exe!UnknownFunction []
+[2018.04.04-16.45.56:238][530]LogOutputDevice: Error: [Callstack] 0x00000000CC216C4A UE4Editor.exe!UnknownFunction []
+[2018.04.04-16.45.56:238][530]LogOutputDevice: Error: [Callstack] 0x00000000CC224149 UE4Editor.exe!UnknownFunction []
+[2018.04.04-16.45.56:238][530]LogOutputDevice: Error: [Callstack] 0x00000000CC225B57 UE4Editor.exe!UnknownFunction []
+[2018.04.04-16.45.56:238][530]LogOutputDevice: Error: [Callstack] 0x00000000E62E1FE4 KERNEL32.DLL!UnknownFunction []
+[2018.04.04-16.45.56:238][530]LogOutputDevice: Error: [Callstack] 0x00000000E8B6EFC1 ntdll.dll!UnknownFunction []
+[2018.04.04-16.45.56:238][530]LogOutputDevice: Error: 
+[2018.04.04-16.45.56:244][530]LogStats:                SubmitErrorReport -  0.000 s
