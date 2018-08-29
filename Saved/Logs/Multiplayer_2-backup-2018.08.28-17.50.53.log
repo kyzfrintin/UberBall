@@ -1,0 +1,1103 @@
+﻿Log file open, 08/28/18 17:49:57
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Multiplayer
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-479589703) SRandInit(-479589703).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 4033788, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.374687
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/AdvancedSessions/AdvancedSessions/Binaries/Win64/UE4Editor-AdvancedSessions.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/AdvancedSessions/AdvancedSteamSessions/Binaries/Win64/UE4Editor-AdvancedSteamSessions.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemSteam/Binaries/Win64/UE4Editor-OnlineSubsystemSteam.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AdvancedSessions
+LogPluginManager: Mounting plugin AdvancedSteamSessions
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemSteam
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  2.733s to configure plugins.
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogOnline: Display: STEAM: Loading Steam SDK 1.39
+LogOnline: Warning: STEAM: Steamworks: SteamUtils() failed!
+LogOnline: Warning: STEAM: Steamworks: SteamUser() failed!
+LogOnline: Warning: STEAM: Steamworks: SteamFriends() failed!
+LogOnline: Warning: STEAM: Steamworks: SteamRemoteStorage() failed!
+LogOnline: Warning: STEAM: Steamworks: SteamUserStats() failed!
+LogOnline: Warning: STEAM: Steamworks: SteamMatchmakingServers() failed!
+LogOnline: Warning: STEAM: Steamworks: SteamApps() failed!
+LogOnline: Warning: STEAM: Steamworks: SteamNetworking() failed!
+LogOnline: Warning: STEAM: Steamworks: SteamMatchmaking() failed!
+LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+LogOnline: Warning: STEAM: Steam API failed to initialize!
+LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am Dell (192.168.2.109:0)
+LogInit: Build: ++UE4+Release-4.19-CL-4033788
+LogInit: Engine Version: 4.19.2-4033788+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr 27 2018 02:06:57
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line:  /Game/Maps/Arena01 -game -PIEVIACONSOLE -ResX=1280 -ResY=720  -Multiprocess -messaging -SessionName="Play in Standalone Game" -windowed 
+LogInit: Base Directory: D:/Program Files/Epic Games/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.08.28-21.50.01:065][  0]LogInit: Selected Device Profile: [Windows]
+[2018.08.28-21.50.01:065][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.08.28-21.50.01:080][  0]LogInit: Computer: DELL
+[2018.08.28-21.50.01:080][  0]LogInit: User: Alton
+[2018.08.28-21.50.01:080][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.08.28-21.50.01:080][  0]LogInit: High frequency timer resolution =2.531251 MHz
+[2018.08.28-21.50.01:080][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.08.28-21.50.01:080][  0]LogMemory: Platform Memory Stats for Windows
+[2018.08.28-21.50.01:080][  0]LogMemory: Process Physical Memory: 276.19 MB used, 276.19 MB peak
+[2018.08.28-21.50.01:080][  0]LogMemory: Process Virtual Memory: 280.99 MB used, 280.99 MB peak
+[2018.08.28-21.50.01:080][  0]LogMemory: Physical Memory: 8496.53 MB used,  7758.79 MB free, 16255.32 MB total
+[2018.08.28-21.50.01:080][  0]LogMemory: Virtual Memory: 4813.11 MB used,  7758.79 MB free, 134217728.00 MB total
+[2018.08.28-21.50.01:591][  0]LogInit: Using OS detected language (en-US).
+[2018.08.28-21.50.01:591][  0]LogInit: Using OS detected locale (en-CA).
+[2018.08.28-21.50.01:592][  0]LogTextLocalizationManager: No localization for 'en-US' exists, so 'en' will be used for the language.
+[2018.08.28-21.50.01:592][  0]LogTextLocalizationManager: No localization for 'en-CA' exists, so 'en' will be used for the locale.
+[2018.08.28-21.50.02:204][  0]LogStreaming: Display: Took  0.612s to EndInitTextLocalization.
+[2018.08.28-21.50.02:288][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.08.28-21.50.02:288][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.08.28-21.50.02:334][  0]LogD3D11RHI: D3D11 adapters:
+[2018.08.28-21.50.02:422][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2018.08.28-21.50.02:422][  0]LogD3D11RHI:       8082/0/8127 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.08.28-21.50.02:432][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 530' (Feature Level 11_0)
+[2018.08.28-21.50.02:432][  0]LogD3D11RHI:       128/0/8127 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.08.28-21.50.02:435][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.08.28-21.50.02:435][  0]LogD3D11RHI:       0/0/8127 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.08.28-21.50.02:435][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.08.28-21.50.02:477][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.08.28-21.50.02:477][  0]LogD3D11RHI:     GPU DeviceId: 0x1ba1 (for the marketing name, search the web for "GPU Device Id")
+[2018.08.28-21.50.02:477][  0]LogWindows: EnumDisplayDevices:
+[2018.08.28-21.50.02:478][  0]LogWindows:    0. 'Intel(R) HD Graphics 530' (P:1 D:1)
+[2018.08.28-21.50.02:478][  0]LogWindows:    1. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2018.08.28-21.50.02:478][  0]LogWindows:    2. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2018.08.28-21.50.02:478][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2018.08.28-21.50.02:478][  0]LogWindows:    4. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2018.08.28-21.50.02:479][  0]LogWindows:    5. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2018.08.28-21.50.02:479][  0]LogWindows:    6. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2018.08.28-21.50.02:479][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.08.28-21.50.02:479][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2018.08.28-21.50.02:479][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.08.28-21.50.02:479][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.08.28-21.50.02:479][  0]LogRHI: Texture pool is 5657 MB (70% of 8082 MB)
+[2018.08.28-21.50.02:540][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.08.28-21.50.02:541][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.08.28-21.50.02:541][  0]LogD3D11RHI: Async texture creation enabled
+[2018.08.28-21.50.02:586][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.08.28-21.50.02:587][  0]LogShaderCompilers: Guid format shader working directory is -9 characters bigger than the processId version (../../../../../../Users/Alton/Documents/GitHub/UberBall/Intermediate/Shaders/WorkingDirectory/1060/).
+[2018.08.28-21.50.02:587][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Alton/AppData/Local/Temp/UnrealShaderWorkingDir/86A748DF4611CB1FBDBFE3AB69725A38/'.
+[2018.08.28-21.50.03:114][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.08.28-21.50.03:128][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.08.28-21.50.03:141][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.08.28-21.50.03:159][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.08.28-21.50.03:160][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.08.28-21.50.03:563][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.08.28-21.50.03:563][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.08.28-21.50.03:563][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.08.28-21.50.05:850][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.08.28-21.50.05:945][  0]LogDerivedDataCache: Loaded boot cache 0.09s 74MB C:/Users/Alton/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.08.28-21.50.05:945][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Alton/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.08.28-21.50.05:945][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Alton/Documents/GitHub/UberBall/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.08.28-21.50.05:945][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.08.28-21.50.05:945][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Alton/Documents/GitHub/UberBall/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.08.28-21.50.05:945][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.08.28-21.50.05:972][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.08.28-21.50.05:984][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Alton/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.08.28-21.50.05:984][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.08.28-21.50.05:984][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.08.28-21.50.05:999][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.08.28-21.50.05:999][  0]LogSlate: Using Freetype 2.6.0
+[2018.08.28-21.50.06:019][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.08.28-21.50.06:019][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.08.28-21.50.09:163][  0]LogAssetRegistry: FAssetRegistry took 0.0069 seconds to start up
+[2018.08.28-21.50.09:430][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 1 prioritized culture(s) in 0.017094 seconds
+[2018.08.28-21.50.09:563][  0]LogInit: Selected Device Profile: [Windows]
+[2018.08.28-21.50.09:787][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.08.28-21.50.09:790][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.08.28-21.50.09:790][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.08.28-21.50.09:790][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.08.28-21.50.09:790][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.08.28-21.50.09:790][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.08.28-21.50.09:835][  0]LogNetVersion: Multiplayer , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 567265365)
+[2018.08.28-21.50.10:772][  0]LogMoviePlayer: Initializing movie player
+[2018.08.28-21.50.11:156][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.08.28-21.50.11:194][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.08.28-21.50.11:442][  0]SourceControl: Source control is disabled
+[2018.08.28-21.50.11:442][  0]SourceControl: Source control is disabled
+[2018.08.28-21.50.11:461][  0]SourceControl: Source control is disabled
+[2018.08.28-21.50.11:831][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.08.28-21.50.12:013][  0]LogOcInput: OculusInput pre-init called
+[2018.08.28-21.50.12:062][  0]LogUObjectArray: 40777 objects as part of root set at end of initial load.
+[2018.08.28-21.50.12:062][  0]LogUObjectAllocator: 8689928 out of 0 bytes used by permanent object pool.
+[2018.08.28-21.50.12:062][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.08.28-21.50.12:158][  0]LogEngine: Initializing Engine...
+[2018.08.28-21.50.12:160][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.08.28-21.50.12:174][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.08.28-21.50.12:174][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.08.28-21.50.12:429][  0]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.08.28-21.50.12:532][  0]LogInit: FAudioDevice initialized.
+[2018.08.28-21.50.12:556][  0]LogInit: Texture streaming: Enabled
+[2018.08.28-21.50.12:880][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a6a1ac4700, Size=648, Default__GameInfoInstance_C Function /Game/BluePrints/AllLevels/GameInfoInstance.GameInfoInstance_C:ExecuteUbergraph_GameInfoInstance
+[2018.08.28-21.50.12:885][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a6adfc5738, Size=40, Default__ErrorDialog_C Function /Game/UI/MainMenu/ErrorDialog.ErrorDialog_C:ExecuteUbergraph_ErrorDialog
+[2018.08.28-21.50.12:893][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a6ae79ee80, Size=80, Default__HostMenu_C Function /Game/UI/MainMenu/HostMenu.HostMenu_C:ExecuteUbergraph_HostMenu
+[2018.08.28-21.50.12:899][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a6adfc5698, Size=40, Default__MainMenu_C Function /Game/UI/MainMenu/MainMenu.MainMenu_C:ExecuteUbergraph_MainMenu
+[2018.08.28-21.50.12:908][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a6ae7c11a0, Size=104, Default__OptionsMenu_C Function /Game/UI/MainMenu/OptionsMenu.OptionsMenu_C:ExecuteUbergraph_OptionsMenu
+[2018.08.28-21.50.12:910][  0]LogLinker: Can't find file '/Game/Blueprints/Characters/0_Base'
+[2018.08.28-21.50.12:910][  0]LogLinker: Can't find file '/Game/Blueprints/Characters/0_Base'
+[2018.08.28-21.50.12:935][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a6ae74ae80, Size=608, Default__ServerMenu_C Function /Game/UI/MainMenu/ServerMenu.ServerMenu_C:ExecuteUbergraph_ServerMenu
+[2018.08.28-21.50.12:999][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a6a1ac4700, Size=648
+[2018.08.28-21.50.12:999][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a6ae5cd900, Size=648, Default__GameInfoInstance_C Function /Engine/Transient.REINST_GameInfoInstance_C_2:ExecuteUbergraph_GameInfoInstance
+[2018.08.28-21.50.12:999][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a6adfc5738, Size=40
+[2018.08.28-21.50.12:999][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a6ae662a20, Size=40, Default__ErrorDialog_C Function /Engine/Transient.REINST_ErrorDialog_C_0:ExecuteUbergraph_ErrorDialog
+[2018.08.28-21.50.13:000][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a6ae79ee80, Size=80
+[2018.08.28-21.50.13:000][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a6ae5b9d50, Size=80, Default__HostMenu_C Function /Engine/Transient.REINST_HostMenu_C_1:ExecuteUbergraph_HostMenu
+[2018.08.28-21.50.13:000][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a6adfc5698, Size=40
+[2018.08.28-21.50.13:000][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a6ae6629a8, Size=40, Default__MainMenu_C Function /Engine/Transient.REINST_MainMenu_C_3:ExecuteUbergraph_MainMenu
+[2018.08.28-21.50.13:000][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a6ae7c11a0, Size=104
+[2018.08.28-21.50.13:000][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a6ae3ae0f0, Size=104, Default__OptionsMenu_C Function /Engine/Transient.REINST_OptionsMenu_C_4:ExecuteUbergraph_OptionsMenu
+[2018.08.28-21.50.13:001][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a6ae74ae80, Size=608
+[2018.08.28-21.50.13:001][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a6ae5c2c00, Size=608, Default__ServerMenu_C Function /Engine/Transient.REINST_ServerMenu_C_5:ExecuteUbergraph_ServerMenu
+[2018.08.28-21.50.13:046][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a6ae17d080, Size=640, Default__GameInfoInstance_C Function /Game/BluePrints/AllLevels/GameInfoInstance.GameInfoInstance_C:ExecuteUbergraph_GameInfoInstance
+[2018.08.28-21.50.13:048][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a6ae663128, Size=40, Default__ErrorDialog_C Function /Game/UI/MainMenu/ErrorDialog.ErrorDialog_C:ExecuteUbergraph_ErrorDialog
+[2018.08.28-21.50.13:050][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a6ae11d0d0, Size=80, Default__HostMenu_C Function /Game/UI/MainMenu/HostMenu.HostMenu_C:ExecuteUbergraph_HostMenu
+[2018.08.28-21.50.13:051][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a6ae663a60, Size=40, Default__MainMenu_C Function /Game/UI/MainMenu/MainMenu.MainMenu_C:ExecuteUbergraph_MainMenu
+[2018.08.28-21.50.13:054][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a6ae0bce20, Size=104, Default__OptionsMenu_C Function /Game/UI/MainMenu/OptionsMenu.OptionsMenu_C:ExecuteUbergraph_OptionsMenu
+[2018.08.28-21.50.13:059][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a6ae0f2c00, Size=616, Default__ServerMenu_C Function /Game/UI/MainMenu/ServerMenu.ServerMenu_C:ExecuteUbergraph_ServerMenu
+[2018.08.28-21.50.13:108][  0]LogInit: Display: Game Engine Initialized.
+[2018.08.28-21.50.13:108][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.08.28-21.50.13:108][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.08.28-21.50.13:108][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.08.28-21.50.13:234][  0]LogInit: Display: Starting Game.
+[2018.08.28-21.50.13:234][  0]LogNet: Browse: /Game/Maps/Arena01?Name=Player
+[2018.08.28-21.50.13:234][  0]LogLoad: LoadMap: /Game/Maps/Arena01?Name=Player
+[2018.08.28-21.50.13:252][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a6ae5cd900, Size=648
+[2018.08.28-21.50.13:252][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a6ae662a20, Size=40
+[2018.08.28-21.50.13:252][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a6ae5b9d50, Size=80
+[2018.08.28-21.50.13:252][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a6ae6629a8, Size=40
+[2018.08.28-21.50.13:252][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a6ae3ae0f0, Size=104
+[2018.08.28-21.50.13:252][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a6ae5c2c00, Size=608
+[2018.08.28-21.50.13:310][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a6ae69d080, Size=272, Default__BallSpawner_C Function /Game/BluePrints/BallSpawner.BallSpawner_C:ExecuteUbergraph_BallSpawner
+[2018.08.28-21.50.13:313][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a6a0802940, Size=408, Default__BP_GravityBall_C Function /Game/BluePrints/BP_GravityBall.BP_GravityBall_C:ExecuteUbergraph_BP_GravityBall
+[2018.08.28-21.50.13:320][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a6ae2ccb80, Size=1968, Default__UberBall_Character_C Function /Game/ThirdPersonBP/Blueprints/UberBall_Character.UberBall_Character_C:ExecuteUbergraph_UberBall_Character
+[2018.08.28-21.50.13:321][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a6ae1d4b30, Size=16, Default__BasicHUD_C Function /Game/BluePrints/BasicHUD.BasicHUD_C:ExecuteUbergraph_BasicHUD
+[2018.08.28-21.50.13:323][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a6ae173860, Size=32, Default__HUD_Widget_C Function /Game/BluePrints/HUD_Widget.HUD_Widget_C:ExecuteUbergraph_HUD_Widget
+[2018.08.28-21.50.13:340][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a6ae1d53f0, Size=16, Default__Bullet_C Function /Game/BluePrints/Bullet.Bullet_C:ExecuteUbergraph_Bullet
+[2018.08.28-21.50.13:353][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a6ae113b00, Size=240, Default__UberBall_GameMode_C Function /Game/BluePrints/UberBall_GameMode.UberBall_GameMode_C:ExecuteUbergraph_UberBall_GameMode
+[2018.08.28-21.50.13:368][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a6ae27cd60, Size=88, Default__ShooterAnimBP_C Function /Game/BluePrints/ShooterAnimBP.ShooterAnimBP_C:ExecuteUbergraph_ShooterAnimBP
+[2018.08.28-21.50.13:400][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a6ae6304a0, Size=72, Default__FirstPerson_AnimBP_C Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP
+[2018.08.28-21.50.13:419][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a6b287c860, Size=160, Default__STS_C Function /Game/TargetingSystem/STS.STS_C:ExecuteUbergraph_STS
+[2018.08.28-21.50.13:447][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a6b2875580, Size=264, Default__Scoreboard_C Function /Game/BluePrints/Scoreboard.Scoreboard_C:ExecuteUbergraph_Scoreboard
+[2018.08.28-21.50.13:495][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a6ae098790, Size=104, Default__GameplayGM_C Function /Game/BluePrints/Gameplay/GameplayGM.GameplayGM_C:ExecuteUbergraph_GameplayGM
+[2018.08.28-21.50.13:496][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a6ae0c2b00, Size=240, Default__GameplayGM_C Function /Game/BluePrints/UberBall_GameMode.UberBall_GameMode_C:ExecuteUbergraph_UberBall_GameMode
+[2018.08.28-21.50.13:499][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a6b27965c0, Size=312, Default__GampleyPC_C Function /Game/BluePrints/Gameplay/GampleyPC.GampleyPC_C:ExecuteUbergraph_GampleyPC
+[2018.08.28-21.50.13:505][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a6b27960c0, Size=320, Default__ChatWindow_C Function /Game/UI/AllLevels/ChatWindow.ChatWindow_C:ExecuteUbergraph_ChatWindow
+[2018.08.28-21.50.13:514][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a6b5509c00, Size=928, Default__LobbyPC_C Function /Game/Blueprints/Lobby/LobbyPC.LobbyPC_C:ExecuteUbergraph_LobbyPC
+[2018.08.28-21.50.13:518][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a6b5510a00, Size=752, Default__LobbyGM_C Function /Game/BluePrints/Lobby/LobbyGM.LobbyGM_C:ExecuteUbergraph_LobbyGM
+[2018.08.28-21.50.13:520][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a6b5416080, Size=1968, Default__0_Base_C Function /Game/ThirdPersonBP/Blueprints/UberBall_Character.UberBall_Character_C:ExecuteUbergraph_UberBall_Character
+[2018.08.28-21.50.13:533][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a6b53f2b00, Size=1968, Default__Barborous_C Function /Game/ThirdPersonBP/Blueprints/UberBall_Character.UberBall_Character_C:ExecuteUbergraph_UberBall_Character
+[2018.08.28-21.50.13:537][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a6b53d2080, Size=1968, Default__Forge_C Function /Game/ThirdPersonBP/Blueprints/UberBall_Character.UberBall_Character_C:ExecuteUbergraph_UberBall_Character
+[2018.08.28-21.50.13:542][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a6b53c1600, Size=1968, Default__Frosty_C Function /Game/ThirdPersonBP/Blueprints/UberBall_Character.UberBall_Character_C:ExecuteUbergraph_UberBall_Character
+[2018.08.28-21.50.13:546][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a6b5118b80, Size=1968, Default__Natural_C Function /Game/ThirdPersonBP/Blueprints/UberBall_Character.UberBall_Character_C:ExecuteUbergraph_UberBall_Character
+[2018.08.28-21.50.13:550][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a6b5104100, Size=1968, Default__Pit_C Function /Game/ThirdPersonBP/Blueprints/UberBall_Character.UberBall_Character_C:ExecuteUbergraph_UberBall_Character
+[2018.08.28-21.50.13:554][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a6b50f3580, Size=1968, Default__Robo_C Function /Game/ThirdPersonBP/Blueprints/UberBall_Character.UberBall_Character_C:ExecuteUbergraph_UberBall_Character
+[2018.08.28-21.50.13:558][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a6b50d6b00, Size=1968, Default__Tusk_C Function /Game/ThirdPersonBP/Blueprints/UberBall_Character.UberBall_Character_C:ExecuteUbergraph_UberBall_Character
+[2018.08.28-21.50.13:562][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a6b50ca080, Size=1968, Default__Warrior_C Function /Game/ThirdPersonBP/Blueprints/UberBall_Character.UberBall_Character_C:ExecuteUbergraph_UberBall_Character
+[2018.08.28-21.50.13:576][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a6b5111c00, Size=496, Default__LobbyMenu_C Function /Game/UI/Lobby/LobbyMenu.LobbyMenu_C:ExecuteUbergraph_LobbyMenu
+[2018.08.28-21.50.13:583][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a6b53d89f0, Size=80, Default__CharacterSelect_C Function /Game/UI/Lobby/CharacterSelect.CharacterSelect_C:ExecuteUbergraph_CharacterSelect
+[2018.08.28-21.50.13:589][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a6b50a58a0, Size=200, Default__GameSettings_C Function /Game/UI/Lobby/GameSettings.GameSettings_C:ExecuteUbergraph_GameSettings
+[2018.08.28-21.50.13:590][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a6b54908c0, Size=32, Default__PlayerButton_C Function /Game/UI/Lobby/PlayerButton.PlayerButton_C:ExecuteUbergraph_PlayerButton
+[2018.08.28-21.50.13:619][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a6b5060c60, Size=32, Default__ConnectedPlayer_C Function /Game/UI/Lobby/ConnectedPlayer.ConnectedPlayer_C:ExecuteUbergraph_ConnectedPlayer
+[2018.08.28-21.50.13:657][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a6b5045940, Size=320, Default__Goal_C Function /Game/BluePrints/Goal.Goal_C:ExecuteUbergraph_Goal
+[2018.08.28-21.50.13:666][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a6b5044e00, Size=320, Default__GoalTeam2_C Function /Game/BluePrints/GoalTeam2.GoalTeam2_C:ExecuteUbergraph_GoalTeam2
+[2018.08.28-21.50.13:774][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a6ae1d53f0, Size=16
+[2018.08.28-21.50.13:774][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a6b2c20d20, Size=16, Default__Bullet_C Function /Engine/Transient.REINST_Bullet_C_16:ExecuteUbergraph_Bullet
+[2018.08.28-21.50.13:775][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a6ae6304a0, Size=72
+[2018.08.28-21.50.13:775][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a6ae195df0, Size=72, Default__FirstPerson_AnimBP_C Function /Engine/Transient.REINST_FirstPerson_AnimBP_C_0:ExecuteUbergraph_FirstPerson_AnimBP
+[2018.08.28-21.50.13:776][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a6b5045940, Size=320
+[2018.08.28-21.50.13:776][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a6a0ab1a80, Size=320, Default__Goal_C Function /Engine/Transient.REINST_Goal_C_17:ExecuteUbergraph_Goal
+[2018.08.28-21.50.13:777][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a6b5044e00, Size=320
+[2018.08.28-21.50.13:777][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a6a0ab1940, Size=320, Default__GoalTeam2_C Function /Engine/Transient.REINST_GoalTeam2_C_18:ExecuteUbergraph_GoalTeam2
+[2018.08.28-21.50.13:778][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a6ae27cd60, Size=88
+[2018.08.28-21.50.13:778][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a6a0a09420, Size=88, Default__ShooterAnimBP_C Function /Engine/Transient.REINST_ShooterAnimBP_C_1:ExecuteUbergraph_ShooterAnimBP
+[2018.08.28-21.50.13:779][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a6b287c860, Size=160
+[2018.08.28-21.50.13:779][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a6b29e8180, Size=160, Default__STS_C Function /Engine/Transient.REINST_STS_C_20:ExecuteUbergraph_STS
+[2018.08.28-21.50.13:780][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a6ae69d080, Size=272
+[2018.08.28-21.50.13:780][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a6a0ab16c0, Size=272, Default__BallSpawner_C Function /Engine/Transient.REINST_BallSpawner_C_22:ExecuteUbergraph_BallSpawner
+[2018.08.28-21.50.13:780][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a6ae1d4b30, Size=16
+[2018.08.28-21.50.13:780][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a6b2c20d10, Size=16, Default__BasicHUD_C Function /Engine/Transient.REINST_BasicHUD_C_23:ExecuteUbergraph_BasicHUD
+[2018.08.28-21.50.13:780][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a6a0802940, Size=408
+[2018.08.28-21.50.13:780][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a6b29fd980, Size=408, Default__BP_GravityBall_C Function /Engine/Transient.REINST_BP_GravityBall_C_24:ExecuteUbergraph_BP_GravityBall
+[2018.08.28-21.50.13:781][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a6b53d89f0, Size=80
+[2018.08.28-21.50.13:781][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a6b29f1e90, Size=80, Default__CharacterSelect_C Function /Engine/Transient.REINST_CharacterSelect_C_6:ExecuteUbergraph_CharacterSelect
+[2018.08.28-21.50.13:781][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a6b27960c0, Size=320
+[2018.08.28-21.50.13:781][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a6a0ab1580, Size=320, Default__ChatWindow_C Function /Engine/Transient.REINST_ChatWindow_C_8:ExecuteUbergraph_ChatWindow
+[2018.08.28-21.50.13:782][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a6b5060c60, Size=32
+[2018.08.28-21.50.13:782][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a6b2a3dd20, Size=32, Default__ConnectedPlayer_C Function /Engine/Transient.REINST_ConnectedPlayer_C_9:ExecuteUbergraph_ConnectedPlayer
+[2018.08.28-21.50.13:783][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a6b50a58a0, Size=200
+[2018.08.28-21.50.13:783][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a6b29ce240, Size=200, Default__GameSettings_C Function /Engine/Transient.REINST_GameSettings_C_11:ExecuteUbergraph_GameSettings
+[2018.08.28-21.50.13:784][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a6b27965c0, Size=312
+[2018.08.28-21.50.13:784][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a6a0ab0e00, Size=312, Default__GampleyPC_C Function /Engine/Transient.REINST_GampleyPC_C_27:ExecuteUbergraph_GampleyPC
+[2018.08.28-21.50.13:784][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a6ae173860, Size=32
+[2018.08.28-21.50.13:784][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a6b2a3db00, Size=32, Default__HUD_Widget_C Function /Engine/Transient.REINST_HUD_Widget_C_12:ExecuteUbergraph_HUD_Widget
+[2018.08.28-21.50.13:785][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a6b5510a00, Size=752
+[2018.08.28-21.50.13:785][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a6b29ba200, Size=752, Default__LobbyGM_C Function /Engine/Transient.REINST_LobbyGM_C_28:ExecuteUbergraph_LobbyGM
+[2018.08.28-21.50.13:786][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a6b5111c00, Size=496
+[2018.08.28-21.50.13:786][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a6a09e0400, Size=496, Default__LobbyMenu_C Function /Engine/Transient.REINST_LobbyMenu_C_13:ExecuteUbergraph_LobbyMenu
+[2018.08.28-21.50.13:786][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a6b5509c00, Size=928
+[2018.08.28-21.50.13:787][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a6b29afc00, Size=928, Default__LobbyPC_C Function /Engine/Transient.REINST_LobbyPC_C_29:ExecuteUbergraph_LobbyPC
+[2018.08.28-21.50.13:787][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a6b54908c0, Size=32
+[2018.08.28-21.50.13:787][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a6b2a3d8a0, Size=32, Default__PlayerButton_C Function /Engine/Transient.REINST_PlayerButton_C_15:ExecuteUbergraph_PlayerButton
+[2018.08.28-21.50.13:787][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a6b2875580, Size=264
+[2018.08.28-21.50.13:787][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a6a0ab0a40, Size=264, Default__Scoreboard_C Function /Engine/Transient.REINST_Scoreboard_C_16:ExecuteUbergraph_Scoreboard
+[2018.08.28-21.50.13:789][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a6ae2ccb80, Size=1968
+[2018.08.28-21.50.13:789][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a6b297ab00, Size=1968, Default__UberBall_Character_C Function /Engine/Transient.REINST_UberBall_Character_C_30:ExecuteUbergraph_UberBall_Character
+[2018.08.28-21.50.13:790][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a6ae113b00, Size=240
+[2018.08.28-21.50.13:790][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a6ae145f00, Size=240, Default__UberBall_GameMode_C Function /Engine/Transient.REINST_UberBall_GameMode_C_31:ExecuteUbergraph_UberBall_GameMode
+[2018.08.28-21.50.13:790][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a6b5416080, Size=1968
+[2018.08.28-21.50.13:790][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a6b297a080, Size=1968, Default__0_Base_C Function /Engine/Transient.REINST_UberBall_Character_C_30:ExecuteUbergraph_UberBall_Character
+[2018.08.28-21.50.13:790][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a6ae098790, Size=104
+[2018.08.28-21.50.13:790][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a6ae0c2b00, Size=240
+[2018.08.28-21.50.13:790][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a6b2aca7f0, Size=104, Default__GameplayGM_C Function /Engine/Transient.REINST_GameplayGM_C_33:ExecuteUbergraph_GameplayGM
+[2018.08.28-21.50.13:791][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a6ae145c00, Size=240, Default__GameplayGM_C Function /Engine/Transient.REINST_UberBall_GameMode_C_31:ExecuteUbergraph_UberBall_GameMode
+[2018.08.28-21.50.13:791][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a6b53f2b00, Size=1968
+[2018.08.28-21.50.13:791][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a6b2979600, Size=1968, Default__Barborous_C Function /Engine/Transient.REINST_UberBall_Character_C_30:ExecuteUbergraph_UberBall_Character
+[2018.08.28-21.50.13:792][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a6b53d2080, Size=1968
+[2018.08.28-21.50.13:792][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a6b2978b80, Size=1968, Default__Forge_C Function /Engine/Transient.REINST_UberBall_Character_C_30:ExecuteUbergraph_UberBall_Character
+[2018.08.28-21.50.13:792][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a6b53c1600, Size=1968
+[2018.08.28-21.50.13:792][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a6b2978100, Size=1968, Default__Frosty_C Function /Engine/Transient.REINST_UberBall_Character_C_30:ExecuteUbergraph_UberBall_Character
+[2018.08.28-21.50.13:792][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a6b5118b80, Size=1968
+[2018.08.28-21.50.13:792][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a6ae2ccb80, Size=1968, Default__Natural_C Function /Engine/Transient.REINST_UberBall_Character_C_30:ExecuteUbergraph_UberBall_Character
+[2018.08.28-21.50.13:792][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a6b5104100, Size=1968
+[2018.08.28-21.50.13:792][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a6ae2ce080, Size=1968, Default__Pit_C Function /Engine/Transient.REINST_UberBall_Character_C_30:ExecuteUbergraph_UberBall_Character
+[2018.08.28-21.50.13:793][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a6b50f3580, Size=1968
+[2018.08.28-21.50.13:793][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a6b295b580, Size=1968, Default__Robo_C Function /Engine/Transient.REINST_UberBall_Character_C_30:ExecuteUbergraph_UberBall_Character
+[2018.08.28-21.50.13:793][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a6b50d6b00, Size=1968
+[2018.08.28-21.50.13:793][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a6b295ab00, Size=1968, Default__Tusk_C Function /Engine/Transient.REINST_UberBall_Character_C_30:ExecuteUbergraph_UberBall_Character
+[2018.08.28-21.50.13:793][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a6b50ca080, Size=1968
+[2018.08.28-21.50.13:793][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a6b295a080, Size=1968, Default__Warrior_C Function /Engine/Transient.REINST_UberBall_Character_C_30:ExecuteUbergraph_UberBall_Character
+[2018.08.28-21.50.14:039][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a6b62d89c0, Size=16, Default__Bullet_C Function /Game/BluePrints/Bullet.Bullet_C:ExecuteUbergraph_Bullet
+[2018.08.28-21.50.14:041][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a6b6096f40, Size=64, Default__FirstPerson_AnimBP_C Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP
+[2018.08.28-21.50.14:045][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a6b6112c00, Size=320, Default__Goal_C Function /Game/BluePrints/Goal.Goal_C:ExecuteUbergraph_Goal
+[2018.08.28-21.50.14:047][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a6b6112980, Size=320, Default__GoalTeam2_C Function /Game/BluePrints/GoalTeam2.GoalTeam2_C:ExecuteUbergraph_GoalTeam2
+[2018.08.28-21.50.14:050][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a6b6098520, Size=88, Default__ShooterAnimBP_C Function /Game/BluePrints/ShooterAnimBP.ShooterAnimBP_C:ExecuteUbergraph_ShooterAnimBP
+[2018.08.28-21.50.14:054][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a6b5fea340, Size=160, Default__STS_C Function /Game/TargetingSystem/STS.STS_C:ExecuteUbergraph_STS
+[2018.08.28-21.50.14:055][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a6b6112340, Size=272, Default__BallSpawner_C Function /Game/BluePrints/BallSpawner.BallSpawner_C:ExecuteUbergraph_BallSpawner
+[2018.08.28-21.50.14:056][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a6b62d80f0, Size=16, Default__BasicHUD_C Function /Game/BluePrints/BasicHUD.BasicHUD_C:ExecuteUbergraph_BasicHUD
+[2018.08.28-21.50.14:056][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a6b623e400, Size=408, Default__BP_GravityBall_C Function /Game/BluePrints/BP_GravityBall.BP_GravityBall_C:ExecuteUbergraph_BP_GravityBall
+[2018.08.28-21.50.14:060][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a6b5fa27f0, Size=80, Default__CharacterSelect_C Function /Game/UI/Lobby/CharacterSelect.CharacterSelect_C:ExecuteUbergraph_CharacterSelect
+[2018.08.28-21.50.14:061][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a6b6112200, Size=320, Default__ChatWindow_C Function /Game/UI/AllLevels/ChatWindow.ChatWindow_C:ExecuteUbergraph_ChatWindow
+[2018.08.28-21.50.14:063][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a6b5f8ed20, Size=32, Default__ConnectedPlayer_C Function /Game/UI/Lobby/ConnectedPlayer.ConnectedPlayer_C:ExecuteUbergraph_ConnectedPlayer
+[2018.08.28-21.50.14:067][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a6b60c1980, Size=200, Default__GameSettings_C Function /Game/UI/Lobby/GameSettings.GameSettings_C:ExecuteUbergraph_GameSettings
+[2018.08.28-21.50.14:071][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a6b6111e40, Size=320, Default__GampleyPC_C Function /Game/BluePrints/Gameplay/GampleyPC.GampleyPC_C:ExecuteUbergraph_GampleyPC
+[2018.08.28-21.50.14:073][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a6b5effdc0, Size=32, Default__HUD_Widget_C Function /Game/BluePrints/HUD_Widget.HUD_Widget_C:ExecuteUbergraph_HUD_Widget
+[2018.08.28-21.50.14:081][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a6b5ef9d00, Size=800, Default__LobbyGM_C Function /Game/BluePrints/Lobby/LobbyGM.LobbyGM_C:ExecuteUbergraph_LobbyGM
+[2018.08.28-21.50.14:085][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a6b60eca00, Size=504, Default__LobbyMenu_C Function /Game/UI/Lobby/LobbyMenu.LobbyMenu_C:ExecuteUbergraph_LobbyMenu
+[2018.08.28-21.50.14:091][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a6ab9b8c00, Size=928, Default__LobbyPC_C Function /Game/Blueprints/Lobby/LobbyPC.LobbyPC_C:ExecuteUbergraph_LobbyPC
+[2018.08.28-21.50.14:095][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a6b5e6c680, Size=32, Default__PlayerButton_C Function /Game/UI/Lobby/PlayerButton.PlayerButton_C:ExecuteUbergraph_PlayerButton
+[2018.08.28-21.50.14:097][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a6b6111440, Size=264, Default__Scoreboard_C Function /Game/BluePrints/Scoreboard.Scoreboard_C:ExecuteUbergraph_Scoreboard
+[2018.08.28-21.50.14:106][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a6b5e04100, Size=1968, Default__UberBall_Character_C Function /Game/ThirdPersonBP/Blueprints/UberBall_Character.UberBall_Character_C:ExecuteUbergraph_UberBall_Character
+[2018.08.28-21.50.14:111][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a6b5d38500, Size=240, Default__UberBall_GameMode_C Function /Game/BluePrints/UberBall_GameMode.UberBall_GameMode_C:ExecuteUbergraph_UberBall_GameMode
+[2018.08.28-21.50.14:112][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a6b5d3c100, Size=1968, Default__0_Base_C Function /Game/ThirdPersonBP/Blueprints/UberBall_Character.UberBall_Character_C:ExecuteUbergraph_UberBall_Character
+[2018.08.28-21.50.14:113][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a6b5d284f0, Size=104, Default__GameplayGM_C Function /Game/BluePrints/Gameplay/GameplayGM.GameplayGM_C:ExecuteUbergraph_GameplayGM
+[2018.08.28-21.50.14:113][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a6b5d1a300, Size=240, Default__GameplayGM_C Function /Game/BluePrints/UberBall_GameMode.UberBall_GameMode_C:ExecuteUbergraph_UberBall_GameMode
+[2018.08.28-21.50.14:113][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a6b5d11600, Size=1968, Default__Barborous_C Function /Game/ThirdPersonBP/Blueprints/UberBall_Character.UberBall_Character_C:ExecuteUbergraph_UberBall_Character
+[2018.08.28-21.50.14:113][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a6b5d06b00, Size=1968, Default__Forge_C Function /Game/ThirdPersonBP/Blueprints/UberBall_Character.UberBall_Character_C:ExecuteUbergraph_UberBall_Character
+[2018.08.28-21.50.14:113][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a6b5d04100, Size=1968, Default__Frosty_C Function /Game/ThirdPersonBP/Blueprints/UberBall_Character.UberBall_Character_C:ExecuteUbergraph_UberBall_Character
+[2018.08.28-21.50.14:113][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a6b5d01600, Size=1968, Default__Natural_C Function /Game/ThirdPersonBP/Blueprints/UberBall_Character.UberBall_Character_C:ExecuteUbergraph_UberBall_Character
+[2018.08.28-21.50.14:113][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a6b5cf6b00, Size=1968, Default__Pit_C Function /Game/ThirdPersonBP/Blueprints/UberBall_Character.UberBall_Character_C:ExecuteUbergraph_UberBall_Character
+[2018.08.28-21.50.14:113][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a6b5cf4100, Size=1968, Default__Robo_C Function /Game/ThirdPersonBP/Blueprints/UberBall_Character.UberBall_Character_C:ExecuteUbergraph_UberBall_Character
+[2018.08.28-21.50.14:113][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a6b5cf9600, Size=1968, Default__Tusk_C Function /Game/ThirdPersonBP/Blueprints/UberBall_Character.UberBall_Character_C:ExecuteUbergraph_UberBall_Character
+[2018.08.28-21.50.14:114][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001a6b5cf2b00, Size=1968, Default__Warrior_C Function /Game/ThirdPersonBP/Blueprints/UberBall_Character.UberBall_Character_C:ExecuteUbergraph_UberBall_Character
+[2018.08.28-21.50.14:736][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [13.798711ms] /Game/Mannequin/Character/Mesh/SK_Mannequin.SK_Mannequin
+[2018.08.28-21.50.14:860][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [8.612738ms] /Game/FirstPerson/Character/Mesh/SK_Mannequin_Arms.SK_Mannequin_Arms
+[2018.08.28-21.50.14:971][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [5.191504ms] /Game/FirstPerson/FPWeapon/Mesh/SK_FPGun.SK_FPGun
+[2018.08.28-21.50.15:029][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [5.780146ms] /Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_CharM_Warrior.SK_CharM_Warrior
+[2018.08.28-21.50.15:035][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [5.503603ms] /Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_CharM_Tusk.SK_CharM_Tusk
+[2018.08.28-21.50.15:042][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [6.534713ms] /Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_CharM_Robo.SK_CharM_Robo
+[2018.08.28-21.50.15:048][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [5.967800ms] /Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_CharM_Pit.SK_CharM_Pit
+[2018.08.28-21.50.15:054][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [5.232985ms] /Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_CharM_Natural.SK_CharM_Natural
+[2018.08.28-21.50.15:062][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [7.514861ms] /Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_CharM_FrostGiant.SK_CharM_FrostGiant
+[2018.08.28-21.50.15:068][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [5.468442ms] /Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_CharM_Forge.SK_CharM_Forge
+[2018.08.28-21.50.15:074][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [6.297677ms] /Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_CharM_Barbarous.SK_CharM_Barbarous
+[2018.08.28-21.50.15:139][  0]LogAIModule: Creating AISystem for world Arena01
+[2018.08.28-21.50.15:140][  0]LogLoad: Game class is 'GameplayGM_C'
+[2018.08.28-21.50.15:147][  0]LogWorld: Bringing World /Game/Maps/Arena01.Arena01 up for play (max tick rate 0) at 2018.08.28-17.50.15
+[2018.08.28-21.50.15:148][  0]LogWorld: Bringing up level for play took: 0.007064
+[2018.08.28-21.50.15:153][  0]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/BluePrints/BallSpawner.BallSpawner_C:ExecuteUbergraph_BallSpawner'!
+[2018.08.28-21.50.15:156][  0]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.15:156][  0]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.15:156][  0]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.15:156][  0]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.15:157][  0]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.15:168][  0]LogLoad: Took 1.933572 seconds to LoadMap(/Game/Maps/Arena01)
+[2018.08.28-21.50.15:175][  0]LogSlate: Took 0.006950 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.08.28-21.50.15:238][  0]LogLoad: (Engine Initialization) Total time: 21.02 seconds
+[2018.08.28-21.50.15:238][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.08.28-21.50.15:302][  0]LogRenderer: Reallocating scene render targets to support 1280x720 Format 10 NumSamples 1 (Frame:1).
+[2018.08.28-21.50.15:374][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.08.28-21.50.15:636][  1]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.15:638][  1]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.15:651][  2]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.15:667][  3]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.15:683][  4]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.15:699][  5]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.15:715][  6]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.15:731][  7]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.15:748][  8]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.15:763][  9]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.15:780][ 10]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.15:796][ 11]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.15:812][ 12]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.15:828][ 13]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.15:846][ 14]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.15:862][ 15]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.15:878][ 16]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.15:894][ 17]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.15:910][ 18]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.15:927][ 19]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.15:943][ 20]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.15:959][ 21]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.15:975][ 22]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.15:991][ 23]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.16:007][ 24]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.16:023][ 25]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.16:039][ 26]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.16:056][ 27]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.16:071][ 28]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.16:087][ 29]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.16:088][ 29]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.16:104][ 30]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.16:120][ 31]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.16:136][ 32]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.16:152][ 33]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.16:168][ 34]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.16:185][ 35]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.16:201][ 36]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.16:217][ 37]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.16:233][ 38]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.16:249][ 39]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.16:266][ 40]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.16:281][ 41]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.16:298][ 42]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.16:314][ 43]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.16:330][ 44]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.16:410][ 49]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.16:653][ 64]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.16:669][ 65]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.16:685][ 66]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.16:701][ 67]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.16:717][ 68]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.16:734][ 69]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.16:749][ 70]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.16:765][ 71]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.16:781][ 72]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.16:797][ 73]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.16:814][ 74]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.16:830][ 75]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.16:846][ 76]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.17:089][ 91]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.17:105][ 92]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.17:120][ 93]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.17:136][ 94]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.17:152][ 95]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.17:169][ 96]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.17:185][ 97]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.17:201][ 98]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.17:217][ 99]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.17:233][100]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.17:509][117]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.17:525][118]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.17:540][119]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.17:556][120]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.17:573][121]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.17:589][122]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.17:605][123]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.17:621][124]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.17:637][125]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.17:654][126]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.17:670][127]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.17:686][128]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.17:701][129]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.18:041][150]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.18:057][151]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.18:072][152]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.18:105][154]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.18:121][155]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.18:153][157]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.18:169][158]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.18:185][159]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.18:202][160]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.18:218][161]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.18:234][162]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.18:250][163]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.18:266][164]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.18:412][173]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.18:429][174]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.18:443][175]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.18:460][176]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.18:476][177]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.18:492][178]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.18:509][179]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.18:734][193]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.18:751][194]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.18:767][195]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.18:782][196]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.18:799][197]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.18:815][198]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.18:831][199]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.18:847][200]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.18:863][201]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.18:879][202]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.18:896][203]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.18:912][204]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.19:234][224]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.19:250][225]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.19:266][226]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.19:347][231]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.19:363][232]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.19:380][233]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.19:396][234]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.19:412][235]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.19:428][236]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.19:444][237]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.19:945][268]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.20:010][272]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.20:026][273]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.20:042][274]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.20:058][275]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.20:978][332]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.20:994][333]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.21:010][334]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.21:027][335]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.21:043][336]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.21:059][337]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.21:075][338]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.21:092][339]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.21:108][340]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.21:124][341]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.21:140][342]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.21:156][343]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.21:172][344]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.21:188][345]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.21:204][346]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.21:221][347]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.21:237][348]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.21:252][349]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.21:268][350]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.21:284][351]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.21:300][352]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.21:317][353]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.21:333][354]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.21:349][355]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.21:365][356]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.21:381][357]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.21:398][358]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.21:414][359]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.21:430][360]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.21:446][361]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.21:462][362]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.21:478][363]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.21:494][364]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.21:769][381]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.21:785][382]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.21:802][383]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.21:818][384]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.21:833][385]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.21:849][386]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.21:865][387]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.21:881][388]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.21:897][389]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.21:914][390]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.21:930][391]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.21:946][392]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.22:190][407]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.22:204][408]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.22:221][409]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.22:237][410]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.22:253][411]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.22:269][412]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.22:285][413]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.22:302][414]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.22:317][415]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.22:334][416]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.22:350][417]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.22:641][435]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.22:656][436]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.22:673][437]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.22:689][438]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.22:705][439]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.22:721][440]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.22:737][441]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.22:753][442]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.22:770][443]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.22:786][444]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.22:802][445]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.22:818][446]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.23:060][461]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.23:076][462]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.23:092][463]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.23:109][464]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.23:125][465]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.23:142][466]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.23:158][467]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.23:173][468]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.23:190][469]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.23:206][470]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.23:222][471]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.23:479][487]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.23:496][488]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.23:512][489]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.23:561][492]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.23:577][493]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.23:593][494]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.23:609][495]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.23:626][496]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.23:642][497]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.23:658][498]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.23:674][499]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.23:690][500]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.23:706][501]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.23:721][502]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.23:738][503]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.24:042][520]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.24:058][521]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.24:076][522]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.24:091][523]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.24:107][524]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.24:123][525]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.24:140][526]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.24:155][527]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.24:171][528]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.24:187][529]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.24:204][530]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.24:220][531]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.24:478][547]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.24:494][548]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.24:511][549]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.24:526][550]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.24:543][551]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.24:560][552]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.24:575][553]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.24:592][554]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.24:608][555]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.24:624][556]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.24:898][573]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.24:914][574]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.24:930][575]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.24:946][576]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.24:963][577]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.24:979][578]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.24:994][579]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.25:010][580]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.25:026][581]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.25:043][582]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.25:059][583]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.28:140][774]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.28:157][775]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.28:173][776]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.28:189][777]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.28:205][778]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.28:221][779]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.28:237][780]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.28:253][781]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.28:269][782]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.28:285][783]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.28:301][784]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.28:317][785]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.28:334][786]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.30:621][927]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.30:637][928]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.30:653][929]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.30:669][930]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.30:685][931]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.30:701][932]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.30:718][933]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.30:734][934]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.30:750][935]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.30:766][936]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.30:783][937]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.30:800][938]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.30:815][939]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.31:347][972]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.31:363][973]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.31:379][974]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.31:395][975]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.31:412][976]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.31:427][977]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.31:445][978]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.31:460][979]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.31:477][980]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.31:493][981]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.31:509][982]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.31:527][983]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.31:750][997]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.31:767][998]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.31:783][999]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.31:799][  0]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.31:814][  1]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.31:831][  2]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.31:847][  3]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.31:863][  4]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.31:879][  5]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.31:895][  6]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.31:911][  7]LogSkinnedMeshComp: Warning: GetSocketByName(GripPoint): No SkeletalMesh for Component(CharacterMesh0) Actor(0_Base_C_0)
+[2018.08.28-21.50.33:459][101]LogSlate: Window 'Multiplayer (64-bit, PCD3D_SM5) ' being destroyed
+[2018.08.28-21.50.33:461][101]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.08.28-21.50.33:469][101]LogOnline: Warning: OSS: Can't destroy a null online session (GameSession)
+[2018.08.28-21.50.33:470][101]LogEngine: All Windows Closed
+[2018.08.28-21.50.33:470][101]LogWindows: FPlatformMisc::RequestExit(0)
+[2018.08.28-21.50.34:181][102]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2018.08.28-21.50.34:181][102]LogExit: Preparing to exit.
+[2018.08.28-21.50.34:181][102]LogMoviePlayer: Shutting down movie player
+[2018.08.28-21.50.35:293][102]LogExit: Game engine shut down
+[2018.08.28-21.50.35:298][102]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a6b2c20d20, Size=16
+[2018.08.28-21.50.35:298][102]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a6b2a3db00, Size=32
+[2018.08.28-21.50.35:298][102]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a6b2c20d10, Size=16
+[2018.08.28-21.50.35:298][102]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a6b297ab00, Size=1968
+[2018.08.28-21.50.35:298][102]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a6b29fd980, Size=408
+[2018.08.28-21.50.35:298][102]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a6a0ab16c0, Size=272
+[2018.08.28-21.50.35:299][102]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a6ae17d080, Size=640
+[2018.08.28-21.50.35:299][102]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a6ae663128, Size=40
+[2018.08.28-21.50.35:299][102]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a6ae11d0d0, Size=80
+[2018.08.28-21.50.35:299][102]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a6ae663a60, Size=40
+[2018.08.28-21.50.35:299][102]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a6ae0bce20, Size=104
+[2018.08.28-21.50.35:299][102]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a6ae0f2c00, Size=616
+[2018.08.28-21.50.35:300][102]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a6ae145f00, Size=240
+[2018.08.28-21.50.35:300][102]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a6a0a09420, Size=88
+[2018.08.28-21.50.35:300][102]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a6ae195df0, Size=72
+[2018.08.28-21.50.35:300][102]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a6b29e8180, Size=160
+[2018.08.28-21.50.35:300][102]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a6a0ab0a40, Size=264
+[2018.08.28-21.50.35:300][102]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a6b2aca7f0, Size=104
+[2018.08.28-21.50.35:300][102]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a6ae145c00, Size=240
+[2018.08.28-21.50.35:300][102]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a6a0ab0e00, Size=312
+[2018.08.28-21.50.35:300][102]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a6a0ab1580, Size=320
+[2018.08.28-21.50.35:300][102]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a6b29afc00, Size=928
+[2018.08.28-21.50.35:300][102]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a6b29ba200, Size=752
+[2018.08.28-21.50.35:300][102]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a6b297a080, Size=1968
+[2018.08.28-21.50.35:300][102]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a6b2979600, Size=1968
+[2018.08.28-21.50.35:300][102]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a6b2978b80, Size=1968
+[2018.08.28-21.50.35:300][102]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a6b2978100, Size=1968
+[2018.08.28-21.50.35:300][102]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a6ae2ccb80, Size=1968
+[2018.08.28-21.50.35:300][102]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a6ae2ce080, Size=1968
+[2018.08.28-21.50.35:300][102]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a6b295b580, Size=1968
+[2018.08.28-21.50.35:300][102]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a6b295ab00, Size=1968
+[2018.08.28-21.50.35:300][102]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a6b295a080, Size=1968
+[2018.08.28-21.50.35:300][102]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a6a09e0400, Size=496
+[2018.08.28-21.50.35:300][102]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a6b29f1e90, Size=80
+[2018.08.28-21.50.35:300][102]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a6b29ce240, Size=200
+[2018.08.28-21.50.35:300][102]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a6b2a3d8a0, Size=32
+[2018.08.28-21.50.35:301][102]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a6b2a3dd20, Size=32
+[2018.08.28-21.50.35:301][102]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a6a0ab1a80, Size=320
+[2018.08.28-21.50.35:301][102]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a6a0ab1940, Size=320
+[2018.08.28-21.50.35:302][102]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a6b62d89c0, Size=16
+[2018.08.28-21.50.35:302][102]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a6b6096f40, Size=64
+[2018.08.28-21.50.35:302][102]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a6b6112c00, Size=320
+[2018.08.28-21.50.35:302][102]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a6b6112980, Size=320
+[2018.08.28-21.50.35:302][102]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a6b6098520, Size=88
+[2018.08.28-21.50.35:302][102]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a6b5fea340, Size=160
+[2018.08.28-21.50.35:302][102]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a6b6112340, Size=272
+[2018.08.28-21.50.35:302][102]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a6b62d80f0, Size=16
+[2018.08.28-21.50.35:303][102]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a6b623e400, Size=408
+[2018.08.28-21.50.35:303][102]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a6b5fa27f0, Size=80
+[2018.08.28-21.50.35:303][102]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a6b6112200, Size=320
+[2018.08.28-21.50.35:303][102]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a6b5f8ed20, Size=32
+[2018.08.28-21.50.35:303][102]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a6b60c1980, Size=200
+[2018.08.28-21.50.35:303][102]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a6b6111e40, Size=320
+[2018.08.28-21.50.35:303][102]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a6b5effdc0, Size=32
+[2018.08.28-21.50.35:303][102]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a6b5ef9d00, Size=800
+[2018.08.28-21.50.35:303][102]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a6b60eca00, Size=504
+[2018.08.28-21.50.35:303][102]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a6ab9b8c00, Size=928
+[2018.08.28-21.50.35:303][102]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a6b5e6c680, Size=32
+[2018.08.28-21.50.35:303][102]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a6b6111440, Size=264
+[2018.08.28-21.50.35:303][102]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a6b5e04100, Size=1968
+[2018.08.28-21.50.35:303][102]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a6b5d38500, Size=240
+[2018.08.28-21.50.35:303][102]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a6b5d3c100, Size=1968
+[2018.08.28-21.50.35:303][102]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a6b5d284f0, Size=104
+[2018.08.28-21.50.35:303][102]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a6b5d1a300, Size=240
+[2018.08.28-21.50.35:303][102]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a6b5d11600, Size=1968
+[2018.08.28-21.50.35:303][102]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a6b5d06b00, Size=1968
+[2018.08.28-21.50.35:303][102]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a6b5d04100, Size=1968
+[2018.08.28-21.50.35:303][102]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a6b5d01600, Size=1968
+[2018.08.28-21.50.35:303][102]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a6b5cf6b00, Size=1968
+[2018.08.28-21.50.35:304][102]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a6b5cf4100, Size=1968
+[2018.08.28-21.50.35:304][102]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a6b5cf9600, Size=1968
+[2018.08.28-21.50.35:304][102]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001a6b5cf2b00, Size=1968
+[2018.08.28-21.50.35:412][102]LogExit: Object subsystem successfully closed.
+[2018.08.28-21.50.35:429][102]LogShaderCompilers: Display: Shaders left to compile 0
+[2018.08.28-21.50.35:433][102]LogD3D11RHI: Shutdown
+[2018.08.28-21.50.35:433][102]LogD3D11RHI: CleanupD3DDevice
+[2018.08.28-21.50.35:435][102]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.08.28-21.50.35:443][102]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (340)
+[2018.08.28-21.50.35:443][102]LogModuleManager: Shutting down and abandoning module SequenceRecorder (338)
+[2018.08.28-21.50.35:443][102]LogModuleManager: Shutting down and abandoning module AutomationController (336)
+[2018.08.28-21.50.35:443][102]LogModuleManager: Shutting down and abandoning module AutomationWorker (334)
+[2018.08.28-21.50.35:443][102]LogModuleManager: Shutting down and abandoning module Voice (332)
+[2018.08.28-21.50.35:443][102]LogModuleManager: Shutting down and abandoning module AIModule (330)
+[2018.08.28-21.50.35:443][102]LogModuleManager: Shutting down and abandoning module GameplayDebugger (329)
+[2018.08.28-21.50.35:443][102]LogModuleManager: Shutting down and abandoning module AITestSuite (327)
+[2018.08.28-21.50.35:443][102]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (324)
+[2018.08.28-21.50.35:443][102]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (322)
+[2018.08.28-21.50.35:443][102]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (320)
+[2018.08.28-21.50.35:443][102]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (318)
+[2018.08.28-21.50.35:443][102]LogModuleManager: Shutting down and abandoning module CharacterAI (316)
+[2018.08.28-21.50.35:443][102]LogModuleManager: Shutting down and abandoning module SessionServices (314)
+[2018.08.28-21.50.35:443][102]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (312)
+[2018.08.28-21.50.35:444][102]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (310)
+[2018.08.28-21.50.35:444][102]LogModuleManager: Shutting down and abandoning module MovieScene (308)
+[2018.08.28-21.50.35:444][102]LogModuleManager: Shutting down and abandoning module GeometryCache (306)
+[2018.08.28-21.50.35:444][102]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (305)
+[2018.08.28-21.50.35:444][102]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (302)
+[2018.08.28-21.50.35:444][102]LogModuleManager: Shutting down and abandoning module PortalServices (300)
+[2018.08.28-21.50.35:444][102]LogModuleManager: Shutting down and abandoning module PortalRpc (298)
+[2018.08.28-21.50.35:444][102]LogModuleManager: Shutting down and abandoning module MessagingRpc (296)
+[2018.08.28-21.50.35:444][102]LogModuleManager: Shutting down and abandoning module ProfilerService (294)
+[2018.08.28-21.50.35:640][102]LogModuleManager: Shutting down and abandoning module TaskGraph (292)
+[2018.08.28-21.50.35:640][102]LogModuleManager: Shutting down and abandoning module SteamVRController (290)
+[2018.08.28-21.50.35:640][102]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (288)
+[2018.08.28-21.50.35:640][102]LogModuleManager: Shutting down and abandoning module OculusInput (286)
+[2018.08.28-21.50.35:640][102]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (284)
+[2018.08.28-21.50.35:640][102]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (282)
+[2018.08.28-21.50.35:640][102]LogModuleManager: Shutting down and abandoning module CableComponent (280)
+[2018.08.28-21.50.35:640][102]LogModuleManager: Shutting down and abandoning module AudioCapture (278)
+[2018.08.28-21.50.35:640][102]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (276)
+[2018.08.28-21.50.35:640][102]LogModuleManager: Shutting down and abandoning module AndroidPermission (274)
+[2018.08.28-21.50.35:640][102]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (272)
+[2018.08.28-21.50.35:640][102]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (270)
+[2018.08.28-21.50.35:641][102]LogModuleManager: Shutting down and abandoning module MediaCompositing (268)
+[2018.08.28-21.50.35:641][102]LogModuleManager: Shutting down and abandoning module LinearTimecode (266)
+[2018.08.28-21.50.35:641][102]LogModuleManager: Shutting down and abandoning module ImgMedia (264)
+[2018.08.28-21.50.35:647][102]LogModuleManager: Shutting down and abandoning module HTML5Networking (262)
+[2018.08.28-21.50.35:647][102]LogModuleManager: Shutting down and abandoning module DatasmithContent (260)
+[2018.08.28-21.50.35:647][102]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (258)
+[2018.08.28-21.50.35:647][102]LogModuleManager: Shutting down and abandoning module CryptoKeys (256)
+[2018.08.28-21.50.35:647][102]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (254)
+[2018.08.28-21.50.35:647][102]LogModuleManager: Shutting down and abandoning module HotReload (253)
+[2018.08.28-21.50.35:647][102]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (252)
+[2018.08.28-21.50.35:647][102]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (248)
+[2018.08.28-21.50.35:647][102]LogModuleManager: Shutting down and abandoning module UObjectPlugin (246)
+[2018.08.28-21.50.35:647][102]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (244)
+[2018.08.28-21.50.35:647][102]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (242)
+[2018.08.28-21.50.35:647][102]LogModuleManager: Shutting down and abandoning module SourceControl (241)
+[2018.08.28-21.50.35:647][102]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (238)
+[2018.08.28-21.50.35:647][102]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (236)
+[2018.08.28-21.50.35:647][102]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (234)
+[2018.08.28-21.50.35:647][102]LogModuleManager: Shutting down and abandoning module PhysXVehicles (232)
+[2018.08.28-21.50.35:648][102]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (230)
+[2018.08.28-21.50.35:648][102]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (228)
+[2018.08.28-21.50.35:648][102]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (226)
+[2018.08.28-21.50.35:648][102]LogModuleManager: Shutting down and abandoning module ActorSequence (224)
+[2018.08.28-21.50.35:648][102]LogModuleManager: Shutting down and abandoning module UdpMessaging (222)
+[2018.08.28-21.50.35:749][102]LogModuleManager: Shutting down and abandoning module TcpMessaging (220)
+[2018.08.28-21.50.36:171][102]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (218)
+[2018.08.28-21.50.36:171][102]LogModuleManager: Shutting down and abandoning module FacialAnimation (216)
+[2018.08.28-21.50.36:171][102]LogModuleManager: Shutting down and abandoning module DataValidation (214)
+[2018.08.28-21.50.36:171][102]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (212)
+[2018.08.28-21.50.36:171][102]LogModuleManager: Shutting down and abandoning module TreeMap (211)
+[2018.08.28-21.50.36:171][102]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (208)
+[2018.08.28-21.50.36:171][102]LogModuleManager: Shutting down and abandoning module LiveLink (206)
+[2018.08.28-21.50.37:027][102]LogModuleManager: Shutting down and abandoning module AdvancedSteamSessions (204)
+[2018.08.28-21.50.37:027][102]LogModuleManager: Shutting down and abandoning module AdvancedSessions (202)
+[2018.08.28-21.50.37:028][102]LogModuleManager: Shutting down and abandoning module Paper2D (200)
+[2018.08.28-21.50.37:028][102]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (198)
+[2018.08.28-21.50.37:028][102]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (196)
+[2018.08.28-21.50.37:028][102]LogModuleManager: Shutting down and abandoning module WmfMedia (194)
+[2018.08.28-21.50.37:029][102]LogModuleManager: Shutting down and abandoning module Media (193)
+[2018.08.28-21.50.37:035][102]LogModuleManager: Shutting down and abandoning module PacketHandler (190)
+[2018.08.28-21.50.37:035][102]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (188)
+[2018.08.28-21.50.37:035][102]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (186)
+[2018.08.28-21.50.37:035][102]LogModuleManager: Shutting down and abandoning module MediaAssets (184)
+[2018.08.28-21.50.37:035][102]LogModuleManager: Shutting down and abandoning module Overlay (182)
+[2018.08.28-21.50.37:035][102]LogModuleManager: Shutting down and abandoning module OverlayEditor (181)
+[2018.08.28-21.50.37:035][102]LogModuleManager: Shutting down and abandoning module VREditor (178)
+[2018.08.28-21.50.37:035][102]LogModuleManager: Shutting down and abandoning module StringTableEditor (176)
+[2018.08.28-21.50.37:035][102]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (174)
+[2018.08.28-21.50.37:035][102]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (172)
+[2018.08.28-21.50.37:035][102]LogModuleManager: Shutting down and abandoning module FunctionalTesting (170)
+[2018.08.28-21.50.37:035][102]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (168)
+[2018.08.28-21.50.37:035][102]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (167)
+[2018.08.28-21.50.37:035][102]LogModuleManager: Shutting down and abandoning module UMG (164)
+[2018.08.28-21.50.37:035][102]LogModuleManager: Shutting down and abandoning module UMGEditor (163)
+[2018.08.28-21.50.37:036][102]LogModuleManager: Shutting down and abandoning module Sequencer (162)
+[2018.08.28-21.50.37:036][102]LogModuleManager: Shutting down and abandoning module MessageLog (159)
+[2018.08.28-21.50.37:036][102]LogModuleManager: Shutting down and abandoning module SlateReflector (154)
+[2018.08.28-21.50.37:036][102]LogModuleManager: Shutting down and abandoning module Slate (152)
+[2018.08.28-21.50.37:036][102]LogModuleManager: Shutting down and abandoning module EditorStyle (150)
+[2018.08.28-21.50.37:037][102]LogModuleManager: Shutting down and abandoning module MRMesh (148)
+[2018.08.28-21.50.37:037][102]LogModuleManager: Shutting down and abandoning module Messaging (146)
+[2018.08.28-21.50.37:037][102]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (144)
+[2018.08.28-21.50.37:037][102]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (142)
+[2018.08.28-21.50.37:037][102]LogModuleManager: Shutting down and abandoning module XAudio2 (140)
+[2018.08.28-21.50.37:037][102]LogModuleManager: Shutting down and abandoning module Networking (138)
+[2018.08.28-21.50.37:037][102]LogModuleManager: Shutting down and abandoning module Core (136)
+[2018.08.28-21.50.37:037][102]LogModuleManager: Shutting down and abandoning module LevelSequence (134)
+[2018.08.28-21.50.37:037][102]LogModuleManager: Shutting down and abandoning module KismetCompiler (132)
+[2018.08.28-21.50.37:037][102]LogModuleManager: Shutting down and abandoning module MeshUtilities (130)
+[2018.08.28-21.50.37:037][102]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (129)
+[2018.08.28-21.50.37:037][102]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (128)
+[2018.08.28-21.50.37:037][102]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (127)
+[2018.08.28-21.50.37:037][102]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (125)
+[2018.08.28-21.50.37:037][102]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (123)
+[2018.08.28-21.50.37:037][102]LogModuleManager: Shutting down and abandoning module MaterialBaking (119)
+[2018.08.28-21.50.37:037][102]LogModuleManager: Shutting down and abandoning module DerivedDataCache (114)
+[2018.08.28-21.50.37:510][102]LogDerivedDataCache: Shutdown
+[2018.08.28-21.50.37:510][102]LogModuleManager: Shutting down and abandoning module XGEController (112)
+[2018.08.28-21.50.37:510][102]LogModuleManager: Shutting down and abandoning module TargetPlatform (110)
+[2018.08.28-21.50.37:510][102]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (109)
+[2018.08.28-21.50.37:510][102]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (107)
+[2018.08.28-21.50.37:510][102]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (105)
+[2018.08.28-21.50.37:510][102]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (103)
+[2018.08.28-21.50.37:510][102]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (101)
+[2018.08.28-21.50.37:510][102]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (99)
+[2018.08.28-21.50.37:510][102]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (97)
+[2018.08.28-21.50.37:510][102]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (95)
+[2018.08.28-21.50.37:510][102]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (93)
+[2018.08.28-21.50.37:510][102]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (91)
+[2018.08.28-21.50.37:510][102]LogModuleManager: Shutting down and abandoning module ImageWrapper (90)
+[2018.08.28-21.50.37:510][102]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (87)
+[2018.08.28-21.50.37:510][102]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (85)
+[2018.08.28-21.50.37:510][102]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (83)
+[2018.08.28-21.50.37:510][102]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (81)
+[2018.08.28-21.50.37:511][102]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (79)
+[2018.08.28-21.50.37:511][102]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (77)
+[2018.08.28-21.50.37:511][102]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (75)
+[2018.08.28-21.50.37:511][102]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (73)
+[2018.08.28-21.50.37:511][102]LogModuleManager: Shutting down and abandoning module InputCore (70)
+[2018.08.28-21.50.37:511][102]LogModuleManager: Shutting down and abandoning module Settings (68)
+[2018.08.28-21.50.37:511][102]LogModuleManager: Shutting down and abandoning module PhysXCooking (66)
+[2018.08.28-21.50.37:511][102]LogModuleManager: Shutting down and abandoning module SteamVR (64)
+[2018.08.28-21.50.37:511][102]LogModuleManager: Shutting down and abandoning module OculusHMD (62)
+[2018.08.28-21.50.37:511][102]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (60)
+[2018.08.28-21.50.37:511][102]LogModuleManager: Shutting down and abandoning module AppleARKit (58)
+[2018.08.28-21.50.37:511][102]LogModuleManager: Shutting down and abandoning module AugmentedReality (57)
+[2018.08.28-21.50.37:511][102]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (54)
+[2018.08.28-21.50.37:511][102]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (50)
+[2018.08.28-21.50.37:511][102]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.08.28-21.50.37:511][102]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2018.08.28-21.50.37:511][102]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2018.08.28-21.50.37:512][102]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2018.08.28-21.50.37:512][102]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.08.28-21.50.37:512][102]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.08.28-21.50.37:526][102]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.08.28-21.50.37:528][102]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.08.28-21.50.37:528][102]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.08.28-21.50.37:528][102]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.08.28-21.50.37:528][102]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.08.28-21.50.37:528][102]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.08.28-21.50.37:528][102]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.08.28-21.50.37:528][102]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.08.28-21.50.37:529][102]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.08.28-21.50.37:529][102]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.08.28-21.50.37:529][102]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.08.28-21.50.37:529][102]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.08.28-21.50.37:529][102]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.08.28-21.50.37:529][102]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.08.28-21.50.37:529][102]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.08.28-21.50.37:529][102]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.08.28-21.50.37:529][102]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.08.28-21.50.37:529][102]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.08.28-21.50.37:529][102]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.08.28-21.50.37:533][102]LogExit: Exiting.
+[2018.08.28-21.50.37:535][102]Log file closed, 08/28/18 17:50:37
